@@ -36,7 +36,7 @@ Open the recommendation_algorithm.py file and modify the following variables acc
 
 - directory_path: Path to the directory containing the data files.
 - selected_date: Month number for which the algorithm will make predictions.
-- show_all: Set to True to display all recommendations per store, or False to display only the top recommendation.
+- show_all: Set to True to display top 5 recommendations per store, or False to display only the the whole predictions dataframe.
 
 ## Contributing
 
