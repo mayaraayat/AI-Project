@@ -1,7 +1,7 @@
-## Financially Intelligent Product Recommendation
+# Financially Intelligent Product Recommendation
 This project implements a recommendation algorithm using the LightFM library in Python. The algorithm predicts sales scores for various products in different stores based on historical sales data.
 
-## Table of Contents
+# Table of Contents
 
 - [Project Description](#project-description)
 -[Features](#features)
@@ -9,15 +9,15 @@ This project implements a recommendation algorithm using the LightFM library in 
 - [Usage](#usage)
 - [Contributing](#contributing)
 
-## Project Description
+# Project Description
 This project aims to develop a program that utilizes artificial intelligence to predict the most financially lucrative products for a given store in our database. The program's primary objective is to assist in identifying products that generate substantial revenue. Additionally, it focuses on addressing the challenge of accurately estimating the relevance of newly introduced products.
 
-## Features
+# Features
 - Predicting high-revenue generating products for each store based on historical sales data.
 - Incorporating artificial intelligence techniques to handle the complexity of estimating the relevance of newly introduced products.
 - Providing recommendations that can be applied to all stores and products in our database.
 
-## Installation
+# Installation
 
 You need wsl: Ubuntu
 Open the project folder in your working environment (in VS Code)
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 Modify the relative path if necessary
 
-## Usage
+# Usage
 
 Open the recommendation_algorithm.py file and modify the following variables according to your requirements:
 
