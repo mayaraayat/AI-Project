@@ -1,0 +1,989 @@
+Material_ID;Category;Range;Nature;Sub_Brand;Franchise;Fonction;Status;Saisonnalite;Date_de_Fin_De_Vie_EUROPE;Date_de_Fin_De_Vie_ASIA;Date_de_Lancement_WW
+Material_ID_1;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_1;CRAYON;;;;;
+Material_ID_2;ACCESSORIES;Range_2;Nature_2;Sub_Brand_2;Franchise_2;SKINCARE ACCESSORIES;;;;;
+Material_ID_3;SKINCARE;Range_3;Nature_3;Sub_Brand_3;Franchise_3;BATH;;;;;
+Material_ID_4;SKINCARE;Range_3;Nature_3;Sub_Brand_3;Franchise_3;BATH;;;;;
+Material_ID_5;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_4;MAKE UP BRUSH SINGLE;;;;;
+Material_ID_6;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_4;MAKE UP BRUSH SINGLE;;;;;
+Material_ID_7;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_5;CRAYON;;;;;
+Material_ID_8;SKINCARE;Range_3;Nature_3;Sub_Brand_3;Franchise_3;BATH;;;;;
+Material_ID_9;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_6;CRAYON;ACTIVE;PRIOR;01/02/2023;01/06/2023;
+Material_ID_10;ACCESSORIES;Range_5;Nature_5;Sub_Brand_5;Franchise_7;POUCHES;;;;;
+Material_ID_11;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_6;CRAYON;ACTIVE;PRIOR;01/02/2023;;
+Material_ID_12;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_6;CRAYON;ACTIVE;PRIOR;01/02/2023;;
+Material_ID_13;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_8;LIPSTICK;;;;;
+Material_ID_14;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_6;CRAYON;ACTIVE;PRIOR;01/02/2023;;
+Material_ID_15;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_6;CRAYON;ACTIVE;PRIOR;01/02/2023;;
+Material_ID_16;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;PRIOR;01/02/2024;;
+Material_ID_17;ACCESSORIES;Range_7;Nature_8;Sub_Brand_8;Franchise_10;MANICURE;;;;;
+Material_ID_18;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;PRIOR;01/02/2024;;
+Material_ID_19;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SP16;01/02/2024;;01/02/2016
+Material_ID_20;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;PRIOR;01/02/2024;;
+Material_ID_21;MAKE UP;Range_1;Nature_1;Sub_Brand_9;Franchise_11;LIQUID;ACTIVE;PRIOR;;;
+Material_ID_22;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_12;CONCEALER;;;;;
+Material_ID_23;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_6;CRAYON;ACTIVE;PRIOR;01/02/2023;;01/07/2012
+Material_ID_24;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_6;CRAYON;ACTIVE;PRIOR;01/02/2023;;01/07/2012
+Material_ID_25;MAKE UP;Range_9;Nature_10;Sub_Brand_11;Franchise_13;NAIL CARE;ACTIVE;PRIOR;01/02/2024;;
+Material_ID_26;ACCESSORIES;Range_10;Nature_11;Sub_Brand_12;Franchise_14;HAIR TOOLS;;;;;
+Material_ID_27;SKINCARE;Range_3;Nature_3;Sub_Brand_3;Franchise_3;BATH;;;;;
+Material_ID_28;MAKE UP;Range_8;Nature_12;Sub_Brand_13;Franchise_15;PRESSED POWDER;ACTIVE;PRIOR;01/02/2024;;01/07/2012
+Material_ID_29;MAKE UP;Range_8;Nature_12;Sub_Brand_13;Franchise_15;PRESSED POWDER;ACTIVE;PRIOR;01/02/2024;;01/07/2012
+Material_ID_30;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_16;MAKE UP BRUSH SINGLE;ACTIVE;SUMBIS14;01/09/2023;;01/06/2014
+Material_ID_31;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_17;LIPSTICK;;;;;
+Material_ID_32;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_17;LIPSTICK;;;;;
+Material_ID_33;MAKE UP;Range_8;Nature_12;Sub_Brand_13;Franchise_15;PRESSED POWDER;ACTIVE;PRIOR;01/02/2024;;01/07/2012
+Material_ID_34;MAKE UP;Range_8;Nature_12;Sub_Brand_13;Franchise_15;PRESSED POWDER;ACTIVE;PRIOR;01/02/2024;;01/07/2012
+Material_ID_35;SKINCARE;Range_3;Nature_3;Sub_Brand_3;Franchise_3;BATH;;;;;
+Material_ID_36;MAKE UP;Range_8;Nature_12;Sub_Brand_13;Franchise_15;PRESSED POWDER;ACTIVE;PRIOR;01/02/2024;;01/07/2012
+Material_ID_37;MAKE UP;Range_8;Nature_12;Sub_Brand_13;Franchise_15;PRESSED POWDER;ACTIVE;PRIOR;01/02/2024;;01/07/2012
+Material_ID_38;MAKE UP;Range_8;Nature_12;Sub_Brand_13;Franchise_15;PRESSED POWDER;ACTIVE;PRIOR;01/02/2024;;01/07/2012
+Material_ID_39;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_16;MAKE UP BRUSH SINGLE;;;;;
+Material_ID_40;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_16;MAKE UP BRUSH SINGLE;ACTIVE;PRIOR;01/09/2023;;01/07/2013
+Material_ID_41;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_16;MAKE UP BRUSH SINGLE;ACTIVE;SUMBIS14;01/09/2023;;01/06/2014
+Material_ID_42;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_16;MAKE UP BRUSH SINGLE;;;;;
+Material_ID_43;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_16;MAKE UP BRUSH SINGLE;;;;;
+Material_ID_44;MAKE UP;Range_8;Nature_12;Sub_Brand_13;Franchise_15;PRESSED POWDER;ACTIVE;PRIOR;01/02/2024;;01/07/2012
+Material_ID_45;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_16;MAKE UP BRUSH SINGLE;ACTIVE;PRIOR;01/09/2023;;01/07/2013
+Material_ID_46;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_16;MAKE UP BRUSH SINGLE;ACTIVE;SUMBIS14;01/09/2023;;01/06/2014
+Material_ID_47;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_16;MAKE UP BRUSH SINGLE;ACTIVE;SUMBIS14;01/09/2023;;01/06/2014
+Material_ID_48;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_16;MAKE UP BRUSH SINGLE;ACTIVE;PRIOR;01/09/2023;;01/07/2013
+Material_ID_49;SKINCARE;Range_3;Nature_3;Sub_Brand_3;Franchise_3;BATH;OTHER;;;;
+Material_ID_50;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_16;MAKE UP BRUSH SINGLE;ACTIVE;SUMBIS14;01/09/2023;;01/06/2014
+Material_ID_51;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_16;MAKE UP BRUSH SINGLE;ACTIVE;SUMBIS14;01/09/2023;;01/06/2014
+Material_ID_52;MAKE UP;Range_11;Nature_13;Sub_Brand_14;Franchise_18;FASHION;;;;;
+Material_ID_53;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_19;CRAYON;;;;;
+Material_ID_54;MAKE UP;Range_6;Nature_14;Sub_Brand_15;Franchise_20;LIP LINER;ACTIVE;PRIOR;;;01/07/2013
+Material_ID_55;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_21;MAKE UP BRUSH SINGLE;;;;;
+Material_ID_56;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_8;LIPSTICK;;;;;
+Material_ID_57;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_8;LIPSTICK;;;;;
+Material_ID_58;MAKE UP;Range_1;Nature_1;Sub_Brand_9;Franchise_22;LIQUID;;;;;
+Material_ID_59;MAKE UP;Range_8;Nature_15;Sub_Brand_16;Franchise_23;PRIMER;ACTIVE;SUMBIS14;01/04/2023;01/06/2023;01/07/2014
+Material_ID_60;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_16;MAKE UP BRUSH SINGLE;ACTIVE;SUM14;01/09/2023;;01/04/2014
+Material_ID_61;MAKE UP;Range_6;Nature_14;Sub_Brand_15;Franchise_24;LIP LINER;ACTIVE;SUM15;;;06/04/2015
+Material_ID_62;MAKE UP;Range_11;Nature_13;Sub_Brand_14;Franchise_25;FASHION;;;;;
+Material_ID_63;MAKE UP;Range_1;Nature_1;Sub_Brand_17;Franchise_26;FELT LINER;;;;;
+Material_ID_64;ACCESSORIES;Range_7;Nature_8;Sub_Brand_8;Franchise_27;MANICURE;;;;;
+Material_ID_65;ACCESSORIES;Range_2;Nature_2;Sub_Brand_2;Franchise_28;SKINCARE ACCESSORIES;;;;;
+Material_ID_66;MAKE UP;Range_6;Nature_14;Sub_Brand_15;Franchise_24;LIP LINER;ACTIVE;SUM15;;;06/04/2015
+Material_ID_67;ACCESSORIES;Range_7;Nature_8;Sub_Brand_18;Franchise_29;TWEEZERS;;;;;
+Material_ID_68;MAKE UP;Range_6;Nature_14;Sub_Brand_15;Franchise_24;LIP LINER;ACTIVE;SUM15;;;06/04/2015
+Material_ID_69;MAKE UP;Range_1;Nature_16;Sub_Brand_19;Franchise_30;NON WATERPROOF;;;;;
+Material_ID_70;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;;;;;
+Material_ID_71;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_32;CRAYON;;;;;
+Material_ID_72;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_33;POLISH;;;;;
+Material_ID_73;SKINCARE;Range_3;Nature_3;Sub_Brand_3;Franchise_3;BATH;;;;;
+Material_ID_74;MAKE UP;Range_9;Nature_10;Sub_Brand_11;Franchise_34;NAIL CARE;ACTIVE;FALL15;01/02/2024;;01/09/2015
+Material_ID_75;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_35;FIBER MASKS;;;;;
+Material_ID_76;MAKE UP;Range_9;Nature_10;Sub_Brand_11;Franchise_36;NAIL CARE;;;;;
+Material_ID_77;ACCESSORIES;Range_10;Nature_11;Sub_Brand_12;Franchise_37;HAIR TOOLS;;;;;
+Material_ID_78;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_16;MAKE UP BRUSH SINGLE;;;;;
+Material_ID_79;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_16;MAKE UP BRUSH SINGLE;ACTIVE;SUM15;01/09/2023;;01/04/2015
+Material_ID_80;ACCESSORIES;Range_5;Nature_5;Sub_Brand_5;Franchise_38;POUCHES;;;;;
+Material_ID_81;MAKE UP;Range_9;Nature_20;Sub_Brand_23;Franchise_39;REMOVERS;ACTIVE;SUM16;01/02/2024;;01/03/2016
+Material_ID_82;ACCESSORIES;Range_7;Nature_8;Sub_Brand_8;Franchise_40;MANICURE;;;;;
+Material_ID_83;SKINCARE;Range_12;Nature_21;Sub_Brand_24;Franchise_41;REMOVERS;ACTIVE;SUM16;;;01/03/2016
+Material_ID_84;MAKE UP;Range_9;Nature_20;Sub_Brand_23;Franchise_42;REMOVERS;ACTIVE;SUM16;01/02/2024;;01/03/2016
+Material_ID_85;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_43;LIPSTICK;;;;;
+Material_ID_86;MAKE UP;Range_1;Nature_1;Sub_Brand_9;Franchise_44;LIQUID;;;;;
+Material_ID_87;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_45;LIQUID FOUNDATION;;;;;
+Material_ID_88;MAKE UP;Range_9;Nature_10;Sub_Brand_11;Franchise_46;NAIL CARE;ACTIVE;SP16;01/02/2024;;15/01/2016
+Material_ID_89;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_8;LIPSTICK;;;;;
+Material_ID_90;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_45;LIQUID FOUNDATION;;;;;
+Material_ID_91;MAKE UP;Range_1;Nature_1;Sub_Brand_9;Franchise_22;LIQUID;;;;;
+Material_ID_92;SKINCARE;Range_12;Nature_21;Sub_Brand_24;Franchise_47;EXFOLIATORS;;;;;
+Material_ID_93;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_16;MAKE UP BRUSH SINGLE;ACTIVE;SUM16;01/09/2023;;01/04/2016
+Material_ID_94;MAKE UP;Range_1;Nature_1;Sub_Brand_9;Franchise_22;LIQUID;;;;;
+Material_ID_95;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_16;MAKE UP BRUSH SINGLE;ACTIVE;SP16;01/09/2023;;01/02/2016
+Material_ID_96;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SP17;01/02/2024;;01/02/2017
+Material_ID_97;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SP17;01/02/2024;;01/02/2017
+Material_ID_98;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SP17;01/02/2024;;01/02/2017
+Material_ID_99;ACCESSORIES;Range_10;Nature_11;Sub_Brand_26;Franchise_48;HAIR TOOLS;;;;;
+Material_ID_100;MAKE UP;Range_1;Nature_1;Sub_Brand_9;Franchise_22;LIQUID;;;;;
+Material_ID_101;MAKE UP;Range_1;Nature_1;Sub_Brand_9;Franchise_22;LIQUID;;;;;
+Material_ID_102;MAKE UP;Range_1;Nature_1;Sub_Brand_9;Franchise_22;LIQUID;;;;;
+Material_ID_103;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_16;MAKE UP BRUSH SINGLE;ACTIVE;SUM16;01/09/2023;;01/04/2016
+Material_ID_104;MAKE UP;Range_1;Nature_16;Sub_Brand_19;Franchise_49;NON WATERPROOF;;;;;
+Material_ID_105;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_16;MAKE UP BRUSH SINGLE;ACTIVE;SP16;01/09/2023;;01/02/2016
+Material_ID_106;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SP17;01/02/2024;;01/02/2017
+Material_ID_107;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_50;CRAYON;SPECIFIC;FALL16;;;24/08/2016
+Material_ID_108;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SP17;01/02/2024;;01/02/2017
+Material_ID_109;MAKE UP;Range_1;Nature_1;Sub_Brand_9;Franchise_22;LIQUID;;;;;
+Material_ID_110;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SP17;01/02/2024;;01/02/2017
+Material_ID_111;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SP17;01/02/2024;;01/02/2017
+Material_ID_112;MAKE UP;Range_1;Nature_16;Sub_Brand_19;Franchise_51;NON WATERPROOF;;;;;
+Material_ID_113;MAKE UP;Range_1;Nature_17;Sub_Brand_27;Franchise_52;STICK;;;;;
+Material_ID_114;MAKE UP;Range_13;Nature_23;Sub_Brand_28;Franchise_53;XMAS;;;;;
+Material_ID_115;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_50;CRAYON;SPECIFIC;FALL16;;;24/08/2016
+Material_ID_116;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SP17;01/02/2024;;01/02/2017
+Material_ID_117;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SP17;01/02/2024;;01/02/2017
+Material_ID_118;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SP17;01/02/2024;;01/02/2017
+Material_ID_119;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SP17;01/02/2024;;01/02/2017
+Material_ID_120;ACCESSORIES;Range_4;Nature_24;Sub_Brand_29;Franchise_54;BRUSH CLEANERS;ACTIVE;SUMBIS18;01/02/2023;01/04/2023;01/06/2018
+Material_ID_121;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_55;GLOSS;;;;;
+Material_ID_122;MAKE UP;Range_1;Nature_17;Sub_Brand_27;Franchise_52;STICK;;;;;
+Material_ID_123;ACCESSORIES;Range_4;Nature_24;Sub_Brand_29;Franchise_56;BRUSH CLEANERS;ACTIVE;FALL16;01/02/2023;01/02/2023;24/08/2016
+Material_ID_124;SKINCARE;Range_12;Nature_19;Sub_Brand_31;Franchise_57;OTHERS;;;;;
+Material_ID_125;MAKE UP;Range_1;Nature_26;Sub_Brand_32;Franchise_58;MEDIUM PALETTE;;;;;
+Material_ID_126;MAKE UP;Range_1;Nature_1;Sub_Brand_9;Franchise_22;LIQUID;;;;;
+Material_ID_127;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_55;GLOSS;;;;;
+Material_ID_128;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_59;GLOSS;;;;;
+Material_ID_129;MAKE UP;Range_1;Nature_17;Sub_Brand_27;Franchise_52;STICK;;;;;
+Material_ID_130;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_60;MAKE UP BRUSH SINGLE;ACTIVE;SP18;01/02/2024;;01/02/2018
+Material_ID_131;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_17;LIPSTICK;;;;;
+Material_ID_132;SKINCARE;Range_12;Nature_21;Sub_Brand_33;Franchise_61;BODY MOISTURIZERS;;;;;
+Material_ID_133;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_62;LIPSTICK;;;;;
+Material_ID_134;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_59;GLOSS;;;;;
+Material_ID_135;MAKE UP;Range_8;Nature_15;Sub_Brand_16;Franchise_63;PRIMER;ACTIVE;SP17;01/02/2024;01/06/2023;01/02/2017
+Material_ID_136;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_55;GLOSS;;;;;
+Material_ID_137;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_55;GLOSS;;;;;
+Material_ID_138;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_55;GLOSS;;;;;
+Material_ID_139;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_64;LIPSTICK;;;;;
+Material_ID_140;MAKE UP;Range_9;Nature_10;Sub_Brand_11;Franchise_65;NAIL CARE;ACTIVE;SUM17;01/09/2022;;01/04/2017
+Material_ID_141;ACCESSORIES;Range_5;Nature_5;Sub_Brand_5;Franchise_66;POUCHES;;;;;
+Material_ID_142;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_55;GLOSS;;;;;
+Material_ID_143;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_59;GLOSS;;;;;
+Material_ID_144;MAKE UP;Range_1;Nature_1;Sub_Brand_9;Franchise_22;LIQUID;;;;;
+Material_ID_145;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_8;LIPSTICK;;;;;
+Material_ID_146;MAKE UP;Range_8;Nature_27;Sub_Brand_34;Franchise_67;BLUSH;;;;;
+Material_ID_147;SKINCARE;Range_12;Nature_19;Sub_Brand_35;Franchise_68;MOISTURIZERS;;;;;
+Material_ID_148;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_69;LIPSTICK;ACTIVE;SP18;01/02/2023;;01/02/2018
+Material_ID_149;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_69;LIPSTICK;ACTIVE;SP18;01/02/2023;;01/02/2018
+Material_ID_150;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_70;OTHER MASKS;;;;;
+Material_ID_151;ACCESSORIES;Range_4;Nature_28;Sub_Brand_36;Franchise_71;MAKE UP BRUSH SINGLE;ACTIVE;SP18;01/02/2024;;01/02/2018
+Material_ID_152;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_72;CONCEALER;ACTIVE;SP19;01/09/2022;01/09/2022;01/02/2019
+Material_ID_153;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_72;CONCEALER;ACTIVE;SP19;01/09/2022;01/09/2022;01/02/2019
+Material_ID_154;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_72;CONCEALER;ACTIVE;SP19;01/09/2022;01/09/2022;01/02/2019
+Material_ID_155;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_156;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_157;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_158;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;;;;;
+Material_ID_159;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_160;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_161;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_162;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_72;CONCEALER;ACTIVE;SP19;01/09/2022;01/09/2022;01/02/2019
+Material_ID_163;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;;;;;
+Material_ID_164;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_165;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;;;;;
+Material_ID_166;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_167;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_168;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_72;CONCEALER;ACTIVE;SP19;01/09/2022;01/09/2022;01/02/2019
+Material_ID_169;SKINCARE;Range_12;Nature_19;Sub_Brand_35;Franchise_68;MOISTURIZERS;;;;;
+Material_ID_170;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_72;CONCEALER;ACTIVE;SP19;01/09/2022;01/09/2022;01/02/2019
+Material_ID_171;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_172;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_173;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_174;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_175;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_176;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_177;MAKE UP;Range_1;Nature_16;Sub_Brand_19;Franchise_74;NON WATERPROOF;ACTIVE;SUM18;01/02/2024;;01/02/2018
+Material_ID_178;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_69;LIPSTICK;ACTIVE;SP18;01/02/2023;;01/02/2018
+Material_ID_179;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_69;LIPSTICK;SPECIFIC;SP18;;;01/02/2018
+Material_ID_180;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_69;LIPSTICK;SPECIFIC;SP18;;;01/02/2018
+Material_ID_181;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_182;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;;;;;
+Material_ID_183;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;;;;;
+Material_ID_184;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_185;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_186;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_187;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_188;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_189;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_190;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_191;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_192;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_193;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;;;;;
+Material_ID_194;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_72;CONCEALER;ACTIVE;SP19;01/09/2022;01/09/2022;01/02/2019
+Material_ID_195;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_196;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_197;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_198;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_199;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_200;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_201;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_202;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_203;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_204;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_205;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_206;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_207;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_208;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_209;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_210;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/09/2018
+Material_ID_211;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_212;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_213;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_214;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_215;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_216;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM18;01/02/2024;;01/09/2018
+Material_ID_217;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_75;LIQUID FOUNDATION;ACTIVE;SUM18;01/09/2022;;01/02/2018
+Material_ID_218;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_75;LIQUID FOUNDATION;ACTIVE;SUM18;01/09/2022;;01/02/2018
+Material_ID_219;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_75;LIQUID FOUNDATION;ACTIVE;SUM18;01/09/2022;;01/02/2018
+Material_ID_220;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_75;LIQUID FOUNDATION;ACTIVE;SUM18;01/09/2022;;01/02/2018
+Material_ID_221;MAKE UP;Range_8;Nature_15;Sub_Brand_16;Franchise_76;PRIMER;ACTIVE;SUM18;;;01/02/2018
+Material_ID_222;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_75;LIQUID FOUNDATION;ACTIVE;SUM18;01/09/2022;;01/02/2018
+Material_ID_223;MAKE UP;Range_8;Nature_27;Sub_Brand_34;Franchise_77;BLUSH;ACTIVE;SUM18;01/02/2023;01/04/2023;01/09/2018
+Material_ID_224;MAKE UP;Range_8;Nature_27;Sub_Brand_34;Franchise_77;BLUSH;ACTIVE;SUM18;01/02/2023;01/04/2023;01/09/2018
+Material_ID_225;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_75;LIQUID FOUNDATION;ACTIVE;SUM18;01/09/2022;;01/02/2018
+Material_ID_226;MAKE UP;Range_8;Nature_27;Sub_Brand_34;Franchise_77;BLUSH;ACTIVE;SUM18;01/02/2023;01/04/2023;01/09/2018
+Material_ID_227;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_228;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_229;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_230;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_75;LIQUID FOUNDATION;ACTIVE;SUM18;01/09/2022;;01/02/2018
+Material_ID_231;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_78;LIQUID LIPSTICK;ACTIVE;SUM18;01/09/2023;;01/04/2018
+Material_ID_232;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_233;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_78;LIQUID LIPSTICK;ACTIVE;SUM18;01/09/2023;;01/04/2018
+Material_ID_234;MAKE UP;Range_8;Nature_27;Sub_Brand_34;Franchise_77;BLUSH;ACTIVE;SUM18;01/02/2023;01/04/2023;01/09/2018
+Material_ID_235;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_236;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_237;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_238;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_239;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SUM18;01/09/2023;;01/04/2018
+Material_ID_240;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_241;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_242;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_79;FIBER MASKS;;;;;
+Material_ID_243;MAKE UP;Range_8;Nature_27;Sub_Brand_34;Franchise_77;BLUSH;ACTIVE;SUM18;01/02/2023;;01/09/2018
+Material_ID_244;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_80;FIBER MASKS;;;;;
+Material_ID_245;MAKE UP;Range_8;Nature_27;Sub_Brand_34;Franchise_77;BLUSH;ACTIVE;SUM18;01/02/2023;01/04/2023;01/09/2018
+Material_ID_246;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_81;LIQUID FOUNDATION;;;;;
+Material_ID_247;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_82;FIBER MASKS;;;;;
+Material_ID_248;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_249;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_250;MAKE UP;Range_8;Nature_27;Sub_Brand_34;Franchise_77;BLUSH;ACTIVE;SUM18;01/02/2023;01/04/2023;01/09/2018
+Material_ID_251;MAKE UP;Range_8;Nature_27;Sub_Brand_34;Franchise_77;BLUSH;ACTIVE;SUM18;01/02/2023;01/04/2023;01/09/2018
+Material_ID_252;MAKE UP;Range_6;Nature_29;Sub_Brand_26;Franchise_83;OTHER LIPS;;;;;
+Material_ID_253;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_78;LIQUID LIPSTICK;ACTIVE;SUM18;01/09/2023;;01/04/2018
+Material_ID_254;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_78;LIQUID LIPSTICK;ACTIVE;SUM18;01/09/2023;;01/04/2018
+Material_ID_255;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_78;LIQUID LIPSTICK;ACTIVE;SUM18;01/09/2023;;01/04/2018
+Material_ID_256;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_257;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_258;MAKE UP;Range_8;Nature_22;Sub_Brand_37;Franchise_84;COMPACT FOUNDATION;ACTIVE;SUM18;01/09/2023;;01/09/2018
+Material_ID_259;MAKE UP;Range_8;Nature_22;Sub_Brand_37;Franchise_84;COMPACT FOUNDATION;ACTIVE;SUM18;01/09/2023;;01/09/2018
+Material_ID_260;MAKE UP;Range_8;Nature_22;Sub_Brand_37;Franchise_84;COMPACT FOUNDATION;ACTIVE;SUM18;01/09/2023;;01/09/2018
+Material_ID_261;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_262;MAKE UP;Range_8;Nature_22;Sub_Brand_37;Franchise_84;COMPACT FOUNDATION;ACTIVE;SUM18;01/09/2023;;01/09/2018
+Material_ID_263;MAKE UP;Range_8;Nature_22;Sub_Brand_37;Franchise_84;COMPACT FOUNDATION;ACTIVE;SUM18;01/09/2023;;01/09/2018
+Material_ID_264;MAKE UP;Range_1;Nature_30;Sub_Brand_1;Franchise_85;CRAYON;;;;;
+Material_ID_265;MAKE UP;Range_8;Nature_22;Sub_Brand_37;Franchise_84;COMPACT FOUNDATION;ACTIVE;SUM18;01/09/2023;;01/09/2018
+Material_ID_266;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_267;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_268;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_269;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_9;LIQUID LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/04/2018
+Material_ID_270;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_19;CRAYON;;;;;
+Material_ID_271;MAKE UP;Range_1;Nature_1;Sub_Brand_17;Franchise_86;FELT LINER;ACTIVE;SUM18;;;01/02/2019
+Material_ID_272;MAKE UP;Range_8;Nature_9;Sub_Brand_38;Franchise_87;CORRECTOR;ACTIVE;SUM18;01/04/2024;;01/02/2019
+Material_ID_273;SKINCARE;Range_12;Nature_21;Sub_Brand_39;Franchise_88;SPECIFIC CARE;ACTIVE;SUM18;01/04/2023;01/06/2023;01/04/2019
+Material_ID_274;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_89;GLOSS;;;;;
+Material_ID_275;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_75;LIQUID FOUNDATION;ACTIVE;SUM18;01/09/2022;;01/02/2019
+Material_ID_276;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_75;LIQUID FOUNDATION;ACTIVE;SUM18;01/09/2022;;01/02/2019
+Material_ID_277;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_43;LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/02/2019
+Material_ID_278;MAKE UP;Range_8;Nature_22;Sub_Brand_37;Franchise_84;COMPACT FOUNDATION;ACTIVE;SUM18;01/09/2023;;01/09/2018
+Material_ID_279;MAKE UP;Range_1;Nature_1;Sub_Brand_17;Franchise_86;FELT LINER;ACTIVE;SUM18;;;01/02/2019
+Material_ID_280;MAKE UP;Range_8;Nature_22;Sub_Brand_37;Franchise_84;COMPACT FOUNDATION;ACTIVE;SUM18;01/09/2023;;01/09/2018
+Material_ID_281;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_43;LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/02/2019
+Material_ID_282;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_43;LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/02/2019
+Material_ID_283;MAKE UP;Range_8;Nature_22;Sub_Brand_37;Franchise_84;COMPACT FOUNDATION;ACTIVE;SUM18;01/09/2023;;01/09/2018
+Material_ID_284;MAKE UP;Range_8;Nature_22;Sub_Brand_37;Franchise_84;COMPACT FOUNDATION;ACTIVE;SUM18;01/09/2023;;01/09/2018
+Material_ID_285;MAKE UP;Range_8;Nature_22;Sub_Brand_37;Franchise_84;COMPACT FOUNDATION;ACTIVE;SUM18;01/09/2023;;01/09/2018
+Material_ID_286;MAKE UP;Range_8;Nature_22;Sub_Brand_37;Franchise_84;COMPACT FOUNDATION;ACTIVE;SUM18;01/09/2023;;01/09/2018
+Material_ID_287;MAKE UP;Range_8;Nature_22;Sub_Brand_37;Franchise_84;COMPACT FOUNDATION;ACTIVE;SUM18;01/09/2023;;01/09/2018
+Material_ID_288;MAKE UP;Range_8;Nature_22;Sub_Brand_37;Franchise_84;COMPACT FOUNDATION;ACTIVE;SUM18;01/09/2023;;01/09/2018
+Material_ID_289;MAKE UP;Range_8;Nature_22;Sub_Brand_37;Franchise_84;COMPACT FOUNDATION;ACTIVE;SUM18;01/09/2023;;01/09/2018
+Material_ID_290;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_19;CRAYON;;;;;
+Material_ID_291;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_43;LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/02/2019
+Material_ID_292;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_43;LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/02/2019
+Material_ID_293;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_19;CRAYON;;;;;
+Material_ID_294;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_75;LIQUID FOUNDATION;ACTIVE;SUM18;01/09/2022;;01/02/2019
+Material_ID_295;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_75;LIQUID FOUNDATION;ACTIVE;SUM18;01/09/2022;;01/02/2019
+Material_ID_296;MAKE UP;Range_8;Nature_9;Sub_Brand_38;Franchise_87;CORRECTOR;ACTIVE;SUM18;01/04/2024;;01/02/2019
+Material_ID_297;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_43;LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/02/2019
+Material_ID_298;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_43;LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/02/2019
+Material_ID_299;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_43;LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/02/2019
+Material_ID_300;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_75;LIQUID FOUNDATION;ACTIVE;SUM18;01/09/2022;;01/02/2019
+Material_ID_301;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_43;LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/02/2019
+Material_ID_302;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_43;LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/02/2019
+Material_ID_303;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_90;GLOSS;SPECIFIC;SUM18;;;01/02/2019
+Material_ID_304;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_91;LIPSTICK;SPECIFIC;SUM18;;;01/02/2019
+Material_ID_305;SKINCARE;Range_12;Nature_19;Sub_Brand_40;Franchise_92;BODY MOISTURIZERS;ACTIVE;SUM18;01/04/2023;;01/09/2019
+Material_ID_306;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_91;LIPSTICK;SPECIFIC;SUM18;;;01/02/2019
+Material_ID_307;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_91;LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/02/2019
+Material_ID_308;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_91;LIPSTICK;SPECIFIC;SUM18;;;01/02/2019
+Material_ID_309;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_91;LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/02/2019
+Material_ID_310;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_91;LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/02/2019
+Material_ID_311;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_90;GLOSS;SPECIFIC;SUM18;;;01/02/2019
+Material_ID_312;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_90;GLOSS;SPECIFIC;SUM18;;;01/02/2019
+Material_ID_313;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_91;LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/02/2019
+Material_ID_314;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_91;LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/02/2019
+Material_ID_315;SKINCARE;Range_12;Nature_19;Sub_Brand_40;Franchise_92;BODY MOISTURIZERS;ACTIVE;SUM18;01/04/2023;;01/09/2019
+Material_ID_316;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_91;LIPSTICK;SPECIFIC;SUM18;;;01/02/2019
+Material_ID_317;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_91;LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/02/2019
+Material_ID_318;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_93;FIBER MASKS;;;;;
+Material_ID_319;ACCESSORIES;Range_7;Nature_8;Sub_Brand_18;Franchise_94;TWEEZERS;ACTIVE;SUM18;;;01/09/2019
+Material_ID_320;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_91;LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/02/2019
+Material_ID_321;SKINCARE;Range_12;Nature_19;Sub_Brand_40;Franchise_92;BODY MOISTURIZERS;ACTIVE;SUM18;01/04/2023;;01/09/2019
+Material_ID_322;SKINCARE;Range_12;Nature_21;Sub_Brand_39;Franchise_95;OTHER MASKS;ACTIVE;SUM18;01/09/2022;01/02/2023;01/04/2019
+Material_ID_323;ACCESSORIES;Range_7;Nature_8;Sub_Brand_18;Franchise_96;TWEEZERS;ACTIVE;SUM18;;;01/09/2019
+Material_ID_324;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SUM18;01/02/2024;;01/04/2019
+Material_ID_325;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_91;LIPSTICK;SPECIFIC;SUM18;;;01/02/2019
+Material_ID_326;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_91;LIPSTICK;ACTIVE;SUM18;01/02/2024;;01/02/2019
+Material_ID_327;ACCESSORIES;Range_7;Nature_8;Sub_Brand_8;Franchise_40;MANICURE;ACTIVE;SUM18;;;01/09/2019
+Material_ID_328;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_97;MAKE UP BRUSH SINGLE;ACTIVE;SUM19;01/02/2024;;01/04/2019
+Material_ID_329;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_97;MAKE UP BRUSH SINGLE;ACTIVE;SUM19;01/02/2024;;01/04/2019
+Material_ID_330;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_81;LIQUID FOUNDATION;SPECIFIC;SUM18;;;01/02/2019
+Material_ID_331;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_98;FIBER MASKS;;;;;
+Material_ID_332;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_81;LIQUID FOUNDATION;SPECIFIC;SUM18;;;01/02/2019
+Material_ID_333;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_99;FIBER MASKS;;;;;
+Material_ID_334;ACCESSORIES;Range_7;Nature_8;Sub_Brand_18;Franchise_94;TWEEZERS;ACTIVE;SUM18;;;01/09/2019
+Material_ID_335;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SUM18;01/02/2024;;01/04/2019
+Material_ID_336;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SUM18;01/02/2024;;01/04/2019
+Material_ID_337;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SUM18;01/02/2024;;01/04/2019
+Material_ID_338;ACCESSORIES;Range_14;Nature_31;Sub_Brand_41;Franchise_100;SPONGES;ACTIVE;FALL19;01/09/2022;;01/09/2019
+Material_ID_339;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_97;MAKE UP BRUSH SINGLE;ACTIVE;SUM19;01/02/2024;;01/04/2019
+Material_ID_340;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_81;LIQUID FOUNDATION;SPECIFIC;SUM18;;;01/02/2019
+Material_ID_341;MAKE UP;Range_6;Nature_32;Sub_Brand_42;Franchise_101;;ACTIVE;SUM20;01/02/2023;01/04/2023;01/04/2020
+Material_ID_342;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_97;MAKE UP BRUSH SINGLE;ACTIVE;SUM19;01/02/2024;;01/04/2019
+Material_ID_343;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_97;MAKE UP BRUSH SINGLE;ACTIVE;SUM19;01/02/2024;;01/04/2019
+Material_ID_344;MAKE UP;Range_6;Nature_32;Sub_Brand_42;Franchise_101;;ACTIVE;SUM20;01/02/2023;;01/04/2020
+Material_ID_345;MAKE UP;Range_6;Nature_14;Sub_Brand_15;Franchise_102;LIP LINER;ACTIVE;SP20;;;01/02/2020
+Material_ID_346;MAKE UP;Range_6;Nature_14;Sub_Brand_15;Franchise_102;LIP LINER;ACTIVE;SP20;;;01/02/2020
+Material_ID_347;MAKE UP;Range_6;Nature_14;Sub_Brand_15;Franchise_102;LIP LINER;ACTIVE;SP20;;;01/02/2020
+Material_ID_348;SKINCARE;Range_15;Nature_33;Sub_Brand_43;Franchise_103;COLOR;;;;;
+Material_ID_349;MAKE UP;Range_8;Nature_15;Sub_Brand_44;Franchise_104;BASE&CORR;ACTIVE;SUM19;01/09/2022;01/06/2023;01/04/2019
+Material_ID_350;SKINCARE;Range_12;Nature_21;Sub_Brand_33;Franchise_61;BODY MOISTURIZERS;ACTIVE;SP20;01/02/2023;01/09/2022;01/02/2020
+Material_ID_351;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_98;FIBER MASKS;;;;;
+Material_ID_352;MAKE UP;Range_1;Nature_17;Sub_Brand_9;Franchise_105;LIQUID;ACTIVE;SUM20;01/09/2024;;01/04/2020
+Material_ID_353;MAKE UP;Range_1;Nature_17;Sub_Brand_9;Franchise_105;LIQUID;ACTIVE;SUM20;01/09/2024;;01/04/2020
+Material_ID_354;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SUM18;01/02/2024;;01/04/2019
+Material_ID_355;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SUM18;01/02/2024;;01/04/2019
+Material_ID_356;SKINCARE;Range_12;Nature_21;Sub_Brand_24;Franchise_41;REMOVERS;ACTIVE;FALL19;01/09/2023;01/09/2023;01/09/2019
+Material_ID_357;SKINCARE;Range_12;Nature_21;Sub_Brand_24;Franchise_41;REMOVERS;ACTIVE;FALL19;01/09/2023;01/09/2023;01/09/2019
+Material_ID_358;SKINCARE;Range_12;Nature_21;Sub_Brand_24;Franchise_41;REMOVERS;ACTIVE;FALL19;01/09/2023;01/09/2023;01/09/2019
+Material_ID_359;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SP24;01/02/2024;;01/04/2019
+Material_ID_360;MAKE UP;Range_1;Nature_30;Sub_Brand_45;Franchise_106;CRAYON;ACTIVE;SP20;01/09/2022;;01/02/2020
+Material_ID_361;MAKE UP;Range_6;Nature_25;Sub_Brand_46;Franchise_55;;ACTIVE;SUM20;;;01/04/2020
+Material_ID_362;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_81;LIQUID FOUNDATION;SPECIFIC;SUM18;;;01/02/2019
+Material_ID_363;ACCESSORIES;Range_14;Nature_31;Sub_Brand_41;Franchise_100;SPONGES;ACTIVE;FALL19;01/09/2022;;01/09/2019
+Material_ID_364;SKINCARE;Range_12;Nature_21;Sub_Brand_24;Franchise_107;OTHERS;ACTIVE;SP22;;;01/02/2022
+Material_ID_365;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SUM18;01/02/2024;;01/04/2019
+Material_ID_366;MAKE UP;Range_6;Nature_32;Sub_Brand_42;Franchise_101;;ACTIVE;SUM20;01/02/2023;01/04/2023;01/04/2020
+Material_ID_367;MAKE UP;Range_6;Nature_14;Sub_Brand_15;Franchise_102;LIP LINER;ACTIVE;SP20;;;01/02/2020
+Material_ID_368;MAKE UP;Range_6;Nature_14;Sub_Brand_15;Franchise_102;LIP LINER;ACTIVE;SP20;;;01/02/2020
+Material_ID_369;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_97;MAKE UP BRUSH SINGLE;ACTIVE;SUM19;01/02/2024;;01/04/2019
+Material_ID_370;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_97;MAKE UP BRUSH SINGLE;ACTIVE;SUM19;01/02/2024;;01/04/2019
+Material_ID_371;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_97;MAKE UP BRUSH SINGLE;ACTIVE;SUM19;01/02/2024;;01/04/2019
+Material_ID_372;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_69;LIPSTICK;ACTIVE;FALL19;01/02/2023;;01/09/2019
+Material_ID_373;SKINCARE;Range_12;Nature_21;Sub_Brand_33;Franchise_108;BODY EXFOLIATORS;ACTIVE;SP20;01/02/2023;01/04/2023;01/02/2020
+Material_ID_374;MAKE UP;Range_1;Nature_16;Sub_Brand_19;Franchise_109;NON WATERPROOF;ACTIVE;SP20;;;01/02/2020
+Material_ID_375;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_97;MAKE UP BRUSH SINGLE;ACTIVE;SUM19;01/02/2024;;01/04/2019
+Material_ID_376;MAKE UP;Range_6;Nature_14;Sub_Brand_15;Franchise_102;LIP LINER;ACTIVE;SP20;;;01/02/2020
+Material_ID_377;MAKE UP;Range_6;Nature_14;Sub_Brand_15;Franchise_102;LIP LINER;ACTIVE;SP20;;;01/02/2020
+Material_ID_378;MAKE UP;Range_6;Nature_14;Sub_Brand_15;Franchise_102;LIP LINER;ACTIVE;SP20;;;01/02/2020
+Material_ID_379;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_69;LIPSTICK;ACTIVE;FALL19;01/02/2023;;01/09/2019
+Material_ID_380;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_69;LIPSTICK;ACTIVE;FALL19;01/02/2023;01/04/2023;01/09/2019
+Material_ID_381;SKINCARE;Range_12;Nature_21;Sub_Brand_33;Franchise_108;BODY EXFOLIATORS;ACTIVE;SP20;01/02/2023;01/02/2023;01/02/2020
+Material_ID_382;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_97;MAKE UP BRUSH SINGLE;ACTIVE;SUM19;01/02/2024;;01/04/2019
+Material_ID_383;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_97;MAKE UP BRUSH SINGLE;ACTIVE;SUM19;01/02/2024;;01/04/2019
+Material_ID_384;SKINCARE;Range_12;Nature_21;Sub_Brand_24;Franchise_110;REMOVERS;ACTIVE;FALL20;01/09/2022;;01/09/2020
+Material_ID_385;SKINCARE;Range_12;Nature_21;Sub_Brand_24;Franchise_111;OTHERS;ACTIVE;FALL19;01/09/2023;01/09/2023;01/09/2019
+Material_ID_386;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_97;MAKE UP BRUSH SINGLE;ACTIVE;SUM19;01/02/2024;;01/04/2019
+Material_ID_387;SKINCARE;Range_12;Nature_21;Sub_Brand_24;Franchise_110;REMOVERS;ACTIVE;FALL20;01/09/2022;;01/09/2020
+Material_ID_388;SKINCARE;Range_12;Nature_21;Sub_Brand_24;Franchise_107;OTHERS;ACTIVE;SP22;;;01/02/2022
+Material_ID_389;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_80;FIBER MASKS;ACTIVE;SUM20;01/04/2023;;01/04/2020
+Material_ID_390;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_80;FIBER MASKS;ACTIVE;SUM20;01/04/2023;;01/04/2020
+Material_ID_391;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_80;FIBER MASKS;ACTIVE;SUM20;01/02/2023;01/02/2023;01/04/2020
+Material_ID_392;SKINCARE;Range_12;Nature_21;Sub_Brand_39;Franchise_112;SPECIFIC CARE;ACTIVE;SUM20;01/02/2023;01/09/2022;01/04/2020
+Material_ID_393;MAKE UP;Range_1;Nature_30;Sub_Brand_47;Franchise_113;GEL;ACTIVE;SP20;01/04/2023;;01/02/2020
+Material_ID_394;MAKE UP;Range_1;Nature_30;Sub_Brand_45;Franchise_106;CRAYON;ACTIVE;SP20;01/09/2022;;01/02/2020
+Material_ID_395;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_55;GLOSS;ACTIVE;SUM20;;;01/04/2020
+Material_ID_396;MAKE UP;Range_6;Nature_25;Sub_Brand_46;Franchise_55;;ACTIVE;SUM20;;;01/04/2020
+Material_ID_397;MAKE UP;Range_6;Nature_32;Sub_Brand_42;Franchise_101;;ACTIVE;SUM20;01/02/2023;;01/04/2020
+Material_ID_398;SKINCARE;Range_12;Nature_21;Sub_Brand_24;Franchise_111;OTHERS;ACTIVE;FALL19;01/09/2023;01/09/2023;01/09/2019
+Material_ID_399;MAKE UP;Range_1;Nature_30;Sub_Brand_47;Franchise_113;GEL;ACTIVE;SP20;01/04/2023;;01/02/2020
+Material_ID_400;MAKE UP;Range_1;Nature_30;Sub_Brand_45;Franchise_106;CRAYON;ACTIVE;SP20;01/09/2022;;01/02/2020
+Material_ID_401;MAKE UP;Range_1;Nature_30;Sub_Brand_45;Franchise_114;CRAYON;ACTIVE;SP20;;;01/02/2020
+Material_ID_402;MAKE UP;Range_1;Nature_17;Sub_Brand_9;Franchise_105;LIQUID;ACTIVE;SUM20;01/09/2024;;01/04/2020
+Material_ID_403;MAKE UP;Range_6;Nature_14;Sub_Brand_15;Franchise_102;LIP LINER;ACTIVE;SP20;;;01/02/2020
+Material_ID_404;MAKE UP;Range_6;Nature_14;Sub_Brand_15;Franchise_102;LIP LINER;ACTIVE;SP20;;;01/02/2020
+Material_ID_405;MAKE UP;Range_6;Nature_14;Sub_Brand_15;Franchise_102;LIP LINER;ACTIVE;SP20;;;01/02/2020
+Material_ID_406;MAKE UP;Range_6;Nature_14;Sub_Brand_15;Franchise_102;LIP LINER;ACTIVE;SP20;;;01/02/2020
+Material_ID_407;MAKE UP;Range_6;Nature_14;Sub_Brand_15;Franchise_102;LIP LINER;ACTIVE;SP20;;;01/02/2020
+Material_ID_408;MAKE UP;Range_6;Nature_14;Sub_Brand_15;Franchise_102;LIP LINER;ACTIVE;SP20;;;01/02/2020
+Material_ID_409;MAKE UP;Range_6;Nature_32;Sub_Brand_42;Franchise_101;;ACTIVE;SUM20;01/02/2023;;01/04/2020
+Material_ID_410;MAKE UP;Range_6;Nature_14;Sub_Brand_15;Franchise_102;LIP LINER;ACTIVE;SP20;;;01/02/2020
+Material_ID_411;MAKE UP;Range_1;Nature_17;Sub_Brand_9;Franchise_105;LIQUID;ACTIVE;SUM20;01/09/2024;;01/04/2020
+Material_ID_412;SKINCARE;Range_12;Nature_21;Sub_Brand_24;Franchise_111;OTHERS;ACTIVE;SUMBIS20;01/09/2023;01/09/2023;01/06/2020
+Material_ID_413;MAKE UP;Range_1;Nature_17;Sub_Brand_9;Franchise_105;LIQUID;ACTIVE;SUM20;01/09/2024;;01/04/2020
+Material_ID_414;MAKE UP;Range_6;Nature_32;Sub_Brand_42;Franchise_101;;ACTIVE;SUM20;01/02/2023;01/04/2023;01/04/2020
+Material_ID_415;MAKE UP;Range_6;Nature_32;Sub_Brand_42;Franchise_101;;ACTIVE;SUM20;01/02/2023;01/04/2023;01/04/2020
+Material_ID_416;MAKE UP;Range_8;Nature_34;Sub_Brand_48;Franchise_115;LUMINIZER;ACTIVE;SP20;01/02/2023;01/04/2023;01/02/2020
+Material_ID_417;MAKE UP;Range_6;Nature_32;Sub_Brand_42;Franchise_101;;ACTIVE;SUM20;01/02/2023;;01/04/2020
+Material_ID_418;MAKE UP;Range_6;Nature_14;Sub_Brand_15;Franchise_102;LIP LINER;ACTIVE;SP20;;;01/02/2020
+Material_ID_419;MAKE UP;Range_6;Nature_14;Sub_Brand_15;Franchise_102;LIP LINER;ACTIVE;SP20;;;01/02/2020
+Material_ID_420;MAKE UP;Range_1;Nature_30;Sub_Brand_45;Franchise_106;CRAYON;ACTIVE;SP20;01/09/2022;;01/02/2020
+Material_ID_421;MAKE UP;Range_1;Nature_30;Sub_Brand_45;Franchise_114;CRAYON;ACTIVE;SP20;;;01/02/2020
+Material_ID_422;MAKE UP;Range_6;Nature_25;Sub_Brand_46;Franchise_55;;ACTIVE;SUM20;;;01/04/2020
+Material_ID_423;MAKE UP;Range_6;Nature_25;Sub_Brand_46;Franchise_55;;ACTIVE;SUM20;;;01/04/2020
+Material_ID_424;MAKE UP;Range_1;Nature_17;Sub_Brand_9;Franchise_105;LIQUID;ACTIVE;SUM20;01/09/2024;;01/04/2020
+Material_ID_425;MAKE UP;Range_8;Nature_35;Sub_Brand_49;Franchise_116;;ACTIVE;FALL20;01/02/2023;01/02/2023;01/09/2020
+Material_ID_426;SKINCARE;Range_12;Nature_19;Sub_Brand_31;Franchise_117;WIPES;ACTIVE;FALL20;01/04/2023;01/06/2023;01/09/2020
+Material_ID_427;SKINCARE;Range_12;Nature_19;Sub_Brand_31;Franchise_117;WIPES;ACTIVE;FALL20;01/04/2023;01/06/2023;01/09/2020
+Material_ID_428;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_80;FIBER MASKS;ACTIVE;SUM20;01/04/2023;;01/04/2020
+Material_ID_429;SKINCARE;Range_12;Nature_21;Sub_Brand_39;Franchise_118;SPECIFIC CARE;ACTIVE;SUM20;01/09/2022;01/09/2022;01/04/2020
+Material_ID_430;MAKE UP;Range_6;Nature_32;Sub_Brand_42;Franchise_101;;ACTIVE;SUM20;01/02/2023;;01/04/2020
+Material_ID_431;MAKE UP;Range_6;Nature_32;Sub_Brand_42;Franchise_101;;ACTIVE;SUM20;01/02/2023;01/04/2023;01/04/2020
+Material_ID_432;MAKE UP;Range_6;Nature_14;Sub_Brand_15;Franchise_102;LIP LINER;ACTIVE;SP20;;;01/02/2020
+Material_ID_433;MAKE UP;Range_6;Nature_14;Sub_Brand_15;Franchise_102;LIP LINER;ACTIVE;SP20;;;01/02/2020
+Material_ID_434;MAKE UP;Range_6;Nature_14;Sub_Brand_15;Franchise_102;LIP LINER;ACTIVE;SP20;;;01/02/2020
+Material_ID_435;MAKE UP;Range_1;Nature_30;Sub_Brand_47;Franchise_113;GEL;ACTIVE;SP20;01/04/2023;;01/02/2020
+Material_ID_436;MAKE UP;Range_1;Nature_30;Sub_Brand_47;Franchise_113;GEL;ACTIVE;SP20;01/04/2023;;01/02/2020
+Material_ID_437;MAKE UP;Range_1;Nature_30;Sub_Brand_45;Franchise_106;CRAYON;ACTIVE;SP20;01/09/2022;;01/02/2020
+Material_ID_438;MAKE UP;Range_1;Nature_30;Sub_Brand_45;Franchise_114;CRAYON;ACTIVE;SP20;;;01/02/2020
+Material_ID_439;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_55;GLOSS;ACTIVE;SUM20;;;01/04/2020
+Material_ID_440;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_55;GLOSS;ACTIVE;SUM20;;;01/04/2020
+Material_ID_441;SKINCARE;Range_12;Nature_19;Sub_Brand_31;Franchise_117;WIPES;ACTIVE;FALL20;01/04/2023;01/06/2023;01/09/2020
+Material_ID_442;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_80;FIBER MASKS;ACTIVE;SUM20;01/04/2023;;01/04/2020
+Material_ID_443;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_55;GLOSS;ACTIVE;SUM20;;;01/04/2020
+Material_ID_444;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_119;FIBER MASKS;ACTIVE;SUM21;01/04/2023;;01/09/2020
+Material_ID_445;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_79;FIBER MASKS;ACTIVE;FALL20;01/02/2024;;01/09/2020
+Material_ID_446;MAKE UP;Range_8;Nature_22;Sub_Brand_37;Franchise_84;COMPACT FOUNDATION;ACTIVE;SP20;01/09/2023;;01/02/2020
+Material_ID_447;MAKE UP;Range_1;Nature_1;Sub_Brand_17;Franchise_120;FELT LINER;ACTIVE;SUM20;;;01/04/2020
+Material_ID_448;MAKE UP;Range_1;Nature_1;Sub_Brand_17;Franchise_120;FELT LINER;ACTIVE;SUM20;;;01/04/2020
+Material_ID_449;MAKE UP;Range_1;Nature_1;Sub_Brand_17;Franchise_120;FELT LINER;ACTIVE;SUM20;;;01/04/2020
+Material_ID_450;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_121;FIBER MASKS;ACTIVE;FALL20;01/02/2024;;01/09/2020
+Material_ID_451;SKINCARE;Range_12;Nature_19;Sub_Brand_35;Franchise_122;SPECIFIC CARE;ACTIVE;SUM20;01/02/2023;01/02/2023;01/04/2020
+Material_ID_452;SKINCARE;Range_12;Nature_19;Sub_Brand_35;Franchise_122;SPECIFIC CARE;ACTIVE;SUM20;01/02/2023;;01/04/2020
+Material_ID_453;MAKE UP;Range_1;Nature_30;Sub_Brand_45;Franchise_114;CRAYON;ACTIVE;SP20;;;01/02/2020
+Material_ID_454;MAKE UP;Range_8;Nature_34;Sub_Brand_48;Franchise_115;LUMINIZER;ACTIVE;SP20;01/02/2023;01/04/2023;01/02/2020
+Material_ID_455;MAKE UP;Range_8;Nature_34;Sub_Brand_48;Franchise_115;LUMINIZER;ACTIVE;SP20;01/02/2023;01/04/2023;01/02/2020
+Material_ID_456;ACCESSORIES;Range_2;Nature_2;Sub_Brand_2;Franchise_123;SKINCARE ACCESSORIES;ACTIVE;FALL19;;;01/09/2019
+Material_ID_457;MAKE UP;Range_1;Nature_30;Sub_Brand_45;Franchise_106;CRAYON;ACTIVE;SP20;01/09/2022;;01/02/2020
+Material_ID_458;MAKE UP;Range_1;Nature_30;Sub_Brand_45;Franchise_114;CRAYON;ACTIVE;SP20;;;01/02/2020
+Material_ID_459;MAKE UP;Range_1;Nature_30;Sub_Brand_45;Franchise_114;CRAYON;ACTIVE;SP20;;;01/02/2020
+Material_ID_460;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_124;CONCEALER;ACTIVE;SP20;01/09/2022;;01/02/2020
+Material_ID_461;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_124;CONCEALER;ACTIVE;SP20;01/09/2022;;01/02/2020
+Material_ID_462;SKINCARE;Range_12;Nature_19;Sub_Brand_31;Franchise_117;WIPES;ACTIVE;FALL20;01/04/2023;;01/09/2020
+Material_ID_463;MAKE UP;Range_8;Nature_34;Sub_Brand_48;Franchise_115;LUMINIZER;ACTIVE;SP20;01/02/2023;01/04/2023;01/02/2020
+Material_ID_464;ACCESSORIES;Range_14;Nature_31;Sub_Brand_41;Franchise_100;SPONGES;ACTIVE;FALL19;01/02/2023;01/02/2023;01/09/2019
+Material_ID_465;ACCESSORIES;Range_14;Nature_36;Sub_Brand_50;Franchise_125;FALSE LASHES;ACTIVE;FALL19;01/09/2023;;01/09/2019
+Material_ID_466;ACCESSORIES;Range_14;Nature_36;Sub_Brand_50;Franchise_126;FALSE LASHES;ACTIVE;FALL19;01/09/2023;;01/09/2019
+Material_ID_467;ACCESSORIES;Range_2;Nature_2;Sub_Brand_2;Franchise_127;SKINCARE ACCESSORIES;ACTIVE;FALL19;;;01/09/2019
+Material_ID_468;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_80;FIBER MASKS;ACTIVE;SUM20;01/02/2023;01/02/2023;01/04/2020
+Material_ID_469;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_80;FIBER MASKS;ACTIVE;SUM20;01/04/2023;;01/04/2020
+Material_ID_470;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_119;FIBER MASKS;ACTIVE;SUM21;01/09/2022;01/09/2022;01/09/2020
+Material_ID_471;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_79;FIBER MASKS;ACTIVE;FALL20;;;01/09/2020
+Material_ID_472;MAKE UP;Range_8;Nature_22;Sub_Brand_37;Franchise_84;COMPACT FOUNDATION;ACTIVE;SP20;01/09/2023;;01/02/2020
+Material_ID_473;MAKE UP;Range_1;Nature_1;Sub_Brand_17;Franchise_120;FELT LINER;ACTIVE;SUM20;;;01/04/2020
+Material_ID_474;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_99;FIBER MASKS;ACTIVE;FALL20;01/02/2024;;01/09/2020
+Material_ID_475;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_128;OTHER MASKS;;;;;
+Material_ID_476;MAKE UP;Range_1;Nature_1;Sub_Brand_9;Franchise_129;LIQUID;ACTIVE;FALL20;01/04/2024;;01/09/2020
+Material_ID_477;MAKE UP;Range_8;Nature_22;Sub_Brand_37;Franchise_84;COMPACT FOUNDATION;ACTIVE;SP20;01/09/2023;;01/02/2020
+Material_ID_478;MAKE UP;Range_8;Nature_22;Sub_Brand_37;Franchise_84;COMPACT FOUNDATION;ACTIVE;SP20;01/09/2023;;01/02/2020
+Material_ID_479;ACCESSORIES;Range_7;Nature_8;Sub_Brand_8;Franchise_40;MANICURE;ACTIVE;FALL19;;;01/09/2019
+Material_ID_480;ACCESSORIES;Range_14;Nature_36;Sub_Brand_50;Franchise_126;FALSE LASHES;ACTIVE;FALL19;01/09/2023;;01/09/2019
+Material_ID_481;ACCESSORIES;Range_14;Nature_36;Sub_Brand_50;Franchise_126;FALSE LASHES;ACTIVE;FALL19;01/09/2023;;01/09/2019
+Material_ID_482;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_130;FIBER MASKS;ACTIVE;FALL21;01/02/2024;;01/09/2021
+Material_ID_483;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_121;FIBER MASKS;ACTIVE;FALL20;01/02/2024;;01/09/2020
+Material_ID_484;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_99;FIBER MASKS;ACTIVE;FALL20;01/02/2024;;01/09/2020
+Material_ID_485;SKINCARE;Range_12;Nature_19;Sub_Brand_35;Franchise_122;SPECIFIC CARE;ACTIVE;SUM20;01/02/2023;01/02/2023;01/04/2020
+Material_ID_486;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_124;CONCEALER;ACTIVE;SP20;01/09/2022;;01/02/2020
+Material_ID_487;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_124;CONCEALER;ACTIVE;SP20;01/09/2022;;01/02/2020
+Material_ID_488;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_80;FIBER MASKS;ACTIVE;SUM20;01/04/2023;;01/04/2020
+Material_ID_489;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_124;CONCEALER;ACTIVE;SP20;01/09/2022;;01/02/2020
+Material_ID_490;MAKE UP;Range_8;Nature_9;Sub_Brand_38;Franchise_131;CORRECTOR;ACTIVE;SP20;01/09/2022;;01/02/2020
+Material_ID_491;ACCESSORIES;Range_2;Nature_2;Sub_Brand_2;Franchise_123;SKINCARE ACCESSORIES;ACTIVE;FALL21;;;01/09/2021
+Material_ID_492;ACCESSORIES;Range_14;Nature_37;Sub_Brand_51;Franchise_132;LASH CURLER;ACTIVE;FALL19;;;01/09/2019
+Material_ID_493;ACCESSORIES;Range_7;Nature_8;Sub_Brand_8;Franchise_133;MANICURE;ACTIVE;FALL19;;;01/09/2019
+Material_ID_494;ACCESSORIES;Range_5;Nature_5;Sub_Brand_52;Franchise_134;ATOMIZERS;ACTIVE;FALL19;;;01/09/2019
+Material_ID_495;ACCESSORIES;Range_14;Nature_36;Sub_Brand_50;Franchise_126;FALSE LASHES;ACTIVE;FALL19;01/09/2023;;01/09/2019
+Material_ID_496;ACCESSORIES;Range_14;Nature_31;Sub_Brand_41;Franchise_100;SPONGES;ACTIVE;FALL19;;;01/09/2019
+Material_ID_497;ACCESSORIES;Range_2;Nature_2;Sub_Brand_2;Franchise_135;SKINCARE ACCESSORIES;ACTIVE;FALL19;01/02/2023;;01/09/2019
+Material_ID_498;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SP24;01/02/2024;;01/02/2020
+Material_ID_499;FRAGRANCE;Range_16;Nature_38;Sub_Brand_53;Franchise_136;ALCOHOL;ACTIVE;SUMBIS20;01/04/2023;;01/06/2020
+Material_ID_500;FRAGRANCE;Range_16;Nature_38;Sub_Brand_53;Franchise_136;ALCOHOL;ACTIVE;SUMBIS20;01/04/2023;;01/06/2020
+Material_ID_501;FRAGRANCE;Range_16;Nature_38;Sub_Brand_53;Franchise_136;ALCOHOL;ACTIVE;SUMBIS20;01/04/2023;;01/06/2020
+Material_ID_502;FRAGRANCE;Range_16;Nature_38;Sub_Brand_53;Franchise_136;ALCOHOL;ACTIVE;SUMBIS20;01/04/2023;;01/06/2020
+Material_ID_503;SKINCARE;Range_3;Nature_39;Sub_Brand_54;Franchise_137;BATH;ACTIVE;SUMBIS19;01/02/2023;;01/06/2019
+Material_ID_504;MAKE UP;Range_1;Nature_1;Sub_Brand_17;Franchise_120;FELT LINER;ACTIVE;SUM20;;;01/04/2020
+Material_ID_505;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_35;FIBER MASKS;ACTIVE;FALL20;01/02/2024;;01/09/2020
+Material_ID_506;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_138;FIBER MASKS;ACTIVE;FALL20;01/02/2024;;01/09/2020
+Material_ID_507;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SP24;01/02/2024;;01/02/2020
+Material_ID_508;MAKE UP;Range_1;Nature_1;Sub_Brand_9;Franchise_129;LIQUID;ACTIVE;FALL20;01/02/2023;01/02/2023;01/09/2020
+Material_ID_509;SKINCARE;Range_12;Nature_21;Sub_Brand_24;Franchise_139;REMOVERS;ACTIVE;SP21;01/09/2022;;01/02/2021
+Material_ID_510;MAKE UP;Range_8;Nature_22;Sub_Brand_37;Franchise_84;COMPACT FOUNDATION;ACTIVE;SP20;01/09/2023;;01/02/2020
+Material_ID_511;MAKE UP;Range_1;Nature_1;Sub_Brand_9;Franchise_129;LIQUID;ACTIVE;FALL20;01/04/2024;;01/09/2020
+Material_ID_512;MAKE UP;Range_1;Nature_1;Sub_Brand_9;Franchise_129;LIQUID;ACTIVE;FALL20;01/04/2024;01/02/2023;01/09/2020
+Material_ID_513;ACCESSORIES;Range_7;Nature_8;Sub_Brand_8;Franchise_40;MANICURE;ACTIVE;FALL19;;;01/09/2019
+Material_ID_514;ACCESSORIES;Range_5;Nature_5;Sub_Brand_52;Franchise_134;ATOMIZERS;ACTIVE;FALL19;;;01/09/2019
+Material_ID_515;ACCESSORIES;Range_7;Nature_8;Sub_Brand_55;Franchise_140;TWEEZERS;ACTIVE;FALL19;;;01/09/2019
+Material_ID_516;SKINCARE;Range_12;Nature_19;Sub_Brand_35;Franchise_122;SPECIFIC CARE;ACTIVE;SUM20;01/02/2023;01/02/2023;01/04/2020
+Material_ID_517;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_119;FIBER MASKS;ACTIVE;SUM21;01/04/2023;01/09/2022;01/09/2020
+Material_ID_518;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_75;LIQUID FOUNDATION;ACTIVE;SP20;01/09/2022;;01/02/2020
+Material_ID_519;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_75;LIQUID FOUNDATION;ACTIVE;SP20;01/09/2022;;01/02/2020
+Material_ID_520;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_75;LIQUID FOUNDATION;ACTIVE;SP20;01/09/2022;;01/02/2020
+Material_ID_521;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_6;CRAYON;ACTIVE;SP20;01/02/2023;01/06/2023;01/02/2020
+Material_ID_522;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_6;CRAYON;ACTIVE;SP20;01/02/2023;01/06/2023;01/02/2020
+Material_ID_523;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_91;;ACTIVE;SUM20;01/02/2024;;01/04/2020
+Material_ID_524;MAKE UP;Range_8;Nature_35;Sub_Brand_49;Franchise_141;PALETTES;ONE SHOT;SP20;01/02/2023;;01/02/2020
+Material_ID_525;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_91;;ACTIVE;SUM20;01/02/2024;;01/04/2020
+Material_ID_526;MAKE UP;Range_1;Nature_1;Sub_Brand_9;Franchise_129;LIQUID;ACTIVE;FALL20;01/02/2023;01/02/2023;01/09/2020
+Material_ID_527;FRAGRANCE;Range_16;Nature_38;Sub_Brand_53;Franchise_136;ALCOHOL;ACTIVE;SUMBIS20;01/04/2023;;01/06/2020
+Material_ID_528;FRAGRANCE;Range_16;Nature_38;Sub_Brand_53;Franchise_136;ALCOHOL;ACTIVE;SUMBIS20;01/04/2023;;01/06/2020
+Material_ID_529;MAKE UP;Range_1;Nature_1;Sub_Brand_17;Franchise_120;FELT LINER;ACTIVE;SUM20;;;01/04/2020
+Material_ID_530;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_35;FIBER MASKS;ACTIVE;FALL20;01/02/2024;;01/09/2020
+Material_ID_531;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_138;FIBER MASKS;ACTIVE;FALL20;01/02/2024;;01/09/2020
+Material_ID_532;MAKE UP;Range_1;Nature_16;Sub_Brand_56;Franchise_109;WATERPROOF;ACTIVE;SUM20;01/04/2024;;01/04/2020
+Material_ID_533;FRAGRANCE;Range_16;Nature_38;Sub_Brand_53;Franchise_136;ALCOHOL;ACTIVE;SUMBIS20;01/04/2023;;01/06/2020
+Material_ID_534;FRAGRANCE;Range_16;Nature_38;Sub_Brand_53;Franchise_136;ALCOHOL;ACTIVE;SUMBIS20;01/04/2023;;01/06/2020
+Material_ID_535;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SP24;01/02/2024;;01/02/2020
+Material_ID_536;MAKE UP;Range_8;Nature_22;Sub_Brand_37;Franchise_84;COMPACT FOUNDATION;ACTIVE;SP20;01/09/2023;;01/02/2020
+Material_ID_537;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_35;FIBER MASKS;ACTIVE;FALL20;01/02/2024;;01/09/2020
+Material_ID_538;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_119;FIBER MASKS;ACTIVE;SUM21;01/04/2023;01/09/2022;01/09/2020
+Material_ID_539;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_119;FIBER MASKS;ACTIVE;SUM21;01/04/2023;;01/09/2020
+Material_ID_540;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_93;FIBER MASKS;ONE SHOT;FALL19;;;01/11/2021
+Material_ID_541;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_75;LIQUID FOUNDATION;ACTIVE;SP20;01/09/2022;;01/02/2020
+Material_ID_542;MAKE UP;Range_1;Nature_1;Sub_Brand_9;Franchise_129;LIQUID;ACTIVE;FALL20;01/04/2024;;01/09/2020
+Material_ID_543;MAKE UP;Range_1;Nature_1;Sub_Brand_9;Franchise_129;LIQUID;ACTIVE;FALL20;01/04/2024;;01/09/2020
+Material_ID_544;MAKE UP;Range_1;Nature_1;Sub_Brand_9;Franchise_129;LIQUID;ACTIVE;FALL20;01/02/2023;01/02/2023;01/09/2020
+Material_ID_545;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_142;CRAYON;ACTIVE;SP21;01/04/2024;;01/02/2021
+Material_ID_546;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_143;LIQUID FOUNDATION;ACTIVE;FALL20;01/09/2024;;01/09/2020
+Material_ID_547;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_143;LIQUID FOUNDATION;ACTIVE;FALL20;01/09/2024;;01/09/2020
+Material_ID_548;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_143;LIQUID FOUNDATION;ACTIVE;FALL20;01/09/2022;;01/09/2020
+Material_ID_549;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_143;LIQUID FOUNDATION;ACTIVE;FALL20;01/09/2024;;01/09/2020
+Material_ID_550;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_75;LIQUID FOUNDATION;ACTIVE;SP20;01/09/2022;;01/02/2020
+Material_ID_551;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_75;LIQUID FOUNDATION;ACTIVE;SP20;01/09/2022;;01/02/2020
+Material_ID_552;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_75;LIQUID FOUNDATION;ACTIVE;SP20;01/09/2022;;01/02/2020
+Material_ID_553;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_6;CRAYON;ACTIVE;SP20;01/02/2023;01/06/2023;01/02/2020
+Material_ID_554;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM20;01/02/2024;;01/04/2020
+Material_ID_555;MAKE UP;Range_1;Nature_1;Sub_Brand_9;Franchise_129;LIQUID;ACTIVE;FALL20;01/04/2024;;01/09/2020
+Material_ID_556;MAKE UP;Range_1;Nature_1;Sub_Brand_9;Franchise_129;LIQUID;ACTIVE;FALL20;01/04/2024;01/02/2023;01/09/2020
+Material_ID_557;ACCESSORIES;Range_14;Nature_36;Sub_Brand_50;Franchise_126;FALSE LASHES;ACTIVE;SP20;01/09/2023;;01/02/2020
+Material_ID_558;MAKE UP;Range_1;Nature_1;Sub_Brand_9;Franchise_129;LIQUID;ACTIVE;FALL20;01/02/2023;01/02/2024;01/09/2020
+Material_ID_559;MAKE UP;Range_1;Nature_1;Sub_Brand_9;Franchise_129;LIQUID;ACTIVE;FALL20;01/02/2023;;01/09/2020
+Material_ID_560;FRAGRANCE;Range_16;Nature_38;Sub_Brand_53;Franchise_136;ALCOHOL;ACTIVE;SUMBIS20;01/04/2023;;01/06/2020
+Material_ID_561;FRAGRANCE;Range_16;Nature_38;Sub_Brand_53;Franchise_136;ALCOHOL;ACTIVE;SUMBIS20;01/04/2023;;01/06/2020
+Material_ID_562;FRAGRANCE;Range_16;Nature_38;Sub_Brand_53;Franchise_136;ALCOHOL;ACTIVE;SUMBIS20;01/04/2023;;01/06/2020
+Material_ID_563;FRAGRANCE;Range_16;Nature_38;Sub_Brand_53;Franchise_136;ALCOHOL;ACTIVE;SUMBIS20;01/04/2023;;01/06/2020
+Material_ID_564;FRAGRANCE;Range_16;Nature_38;Sub_Brand_53;Franchise_136;ALCOHOL;ACTIVE;SUMBIS20;01/04/2023;;01/06/2020
+Material_ID_565;FRAGRANCE;Range_16;Nature_38;Sub_Brand_53;Franchise_136;ALCOHOL;ACTIVE;SUMBIS20;01/04/2023;;01/06/2020
+Material_ID_566;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_144;GLOSS;ACTIVE;SUMBIS20;;;01/06/2020
+Material_ID_567;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_144;GLOSS;ACTIVE;SUMBIS20;;;01/06/2020
+Material_ID_568;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_144;GLOSS;ACTIVE;SUMBIS20;01/02/2023;01/02/2023;01/06/2020
+Material_ID_569;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_145;FIBER MASKS;ACTIVE;FALL20;01/02/2024;;01/09/2020
+Material_ID_570;ACCESSORIES;Range_2;Nature_2;Sub_Brand_26;Franchise_146;SKINCARE ACCESSORIES;ACTIVE;SUM19;01/09/2022;;01/04/2019
+Material_ID_571;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_142;CRAYON;ACTIVE;SP21;01/04/2024;;01/02/2021
+Material_ID_572;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_142;CRAYON;ACTIVE;SP21;01/04/2024;;01/02/2021
+Material_ID_573;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_75;LIQUID FOUNDATION;ACTIVE;SP20;01/09/2022;;01/02/2020
+Material_ID_574;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_143;LIQUID FOUNDATION;ACTIVE;FALL20;01/09/2022;;01/09/2020
+Material_ID_575;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_143;LIQUID FOUNDATION;ACTIVE;FALL20;01/09/2024;;01/09/2020
+Material_ID_576;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_143;LIQUID FOUNDATION;ACTIVE;FALL20;01/09/2024;;01/09/2020
+Material_ID_577;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_6;CRAYON;ACTIVE;SP20;01/02/2023;01/06/2023;01/02/2020
+Material_ID_578;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_6;CRAYON;;;;;
+Material_ID_579;MAKE UP;Range_8;Nature_35;Sub_Brand_49;Franchise_141;PALETTES;ONE SHOT;SUM20;01/02/2023;;01/04/2020
+Material_ID_580;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_147;LIPSTICK;ACTIVE;FALL21;01/09/2023;;01/09/2021
+Material_ID_581;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_147;LIPSTICK;ACTIVE;SP21;01/09/2023;;01/02/2021
+Material_ID_582;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_147;LIPSTICK;ACTIVE;FALL21;01/09/2023;;01/09/2021
+Material_ID_583;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM20;01/02/2024;;01/04/2020
+Material_ID_584;FRAGRANCE;Range_16;Nature_38;Sub_Brand_53;Franchise_136;ALCOHOL;ACTIVE;SUMBIS20;01/04/2023;;01/06/2020
+Material_ID_585;FRAGRANCE;Range_16;Nature_38;Sub_Brand_53;Franchise_136;ALCOHOL;ACTIVE;SUMBIS20;01/04/2023;;01/06/2020
+Material_ID_586;FRAGRANCE;Range_16;Nature_38;Sub_Brand_53;Franchise_136;ALCOHOL;ACTIVE;SUMBIS20;01/04/2023;;01/06/2020
+Material_ID_587;FRAGRANCE;Range_16;Nature_38;Sub_Brand_53;Franchise_136;ALCOHOL;ACTIVE;SUMBIS20;01/04/2023;;01/06/2020
+Material_ID_588;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_148;LIQUID LIPSTICK;ACTIVE;SUM21;;;01/04/2021
+Material_ID_589;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_148;LIQUID LIPSTICK;ACTIVE;SUM21;;;01/04/2021
+Material_ID_590;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_142;CRAYON;ACTIVE;SP21;01/04/2024;;01/02/2021
+Material_ID_591;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_143;LIQUID FOUNDATION;ACTIVE;FALL20;01/09/2024;;01/09/2020
+Material_ID_592;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_143;LIQUID FOUNDATION;ACTIVE;FALL20;01/09/2022;;01/09/2020
+Material_ID_593;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_144;GLOSS;ACTIVE;SUMBIS20;;;01/06/2020
+Material_ID_594;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_144;GLOSS;ACTIVE;SUMBIS20;;;01/06/2020
+Material_ID_595;SKINCARE;Range_3;Nature_40;Sub_Brand_57;Franchise_149;BATH;ACTIVE;FALL20;01/02/2023;01/02/2023;01/09/2020
+Material_ID_596;SKINCARE;Range_3;Nature_40;Sub_Brand_57;Franchise_149;BATH;ACTIVE;FALL20;01/02/2023;01/02/2023;01/09/2020
+Material_ID_597;SKINCARE;Range_3;Nature_40;Sub_Brand_58;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/02/2023;01/06/2020
+Material_ID_598;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_142;CRAYON;ACTIVE;SP21;01/04/2024;;01/02/2021
+Material_ID_599;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_143;LIQUID FOUNDATION;ACTIVE;FALL20;01/09/2024;;01/09/2020
+Material_ID_600;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_142;CRAYON;ACTIVE;SP21;01/04/2024;;01/02/2021
+Material_ID_601;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_142;CRAYON;ACTIVE;SP21;01/04/2024;;01/02/2021
+Material_ID_602;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_143;LIQUID FOUNDATION;ACTIVE;FALL20;01/09/2024;;01/09/2020
+Material_ID_603;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_143;LIQUID FOUNDATION;ACTIVE;FALL20;01/09/2024;;01/09/2020
+Material_ID_604;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_143;LIQUID FOUNDATION;ACTIVE;FALL20;01/09/2024;;01/09/2020
+Material_ID_605;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_143;LIQUID FOUNDATION;ACTIVE;FALL20;01/09/2024;;01/09/2020
+Material_ID_606;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_143;LIQUID FOUNDATION;ACTIVE;FALL20;01/09/2024;;01/09/2020
+Material_ID_607;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_143;LIQUID FOUNDATION;ACTIVE;FALL20;01/09/2024;;01/09/2020
+Material_ID_608;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_6;CRAYON;ACTIVE;SP20;01/02/2023;01/06/2023;01/02/2020
+Material_ID_609;SKINCARE;Range_3;Nature_40;Sub_Brand_59;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_610;SKINCARE;Range_3;Nature_40;Sub_Brand_59;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_611;SKINCARE;Range_3;Nature_40;Sub_Brand_60;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_612;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_147;LIPSTICK;ACTIVE;FALL21;01/09/2023;;01/09/2021
+Material_ID_613;SKINCARE;Range_12;Nature_19;Sub_Brand_40;Franchise_150;BODY MOISTURIZERS;ACTIVE;SP22;01/02/2024;;01/02/2022
+Material_ID_614;MAKE UP;Range_1;Nature_26;Sub_Brand_61;Franchise_151;MINI PALETTE;ACTIVE;FALL20;01/02/2023;01/02/2023;01/09/2020
+Material_ID_615;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_147;LIPSTICK;ACTIVE;FALL21;01/09/2023;;01/09/2021
+Material_ID_616;SKINCARE;Range_12;Nature_21;Sub_Brand_62;Franchise_152;SUN;ACTIVE;SP21;;;01/02/2021
+Material_ID_617;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_153;MAKE UP BRUSH SINGLE;ACTIVE;SP20;;;01/02/2020
+Material_ID_618;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_153;MAKE UP BRUSH SINGLE;ACTIVE;SP20;;;01/02/2020
+Material_ID_619;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM20;01/02/2024;;01/04/2020
+Material_ID_620;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM20;01/02/2024;;01/04/2020
+Material_ID_621;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM20;01/02/2024;;01/04/2020
+Material_ID_622;MAKE UP;Range_9;Nature_18;Sub_Brand_21;Franchise_73;POLISH;ACTIVE;SUM20;01/02/2024;;01/04/2020
+Material_ID_623;MAKE UP;Range_8;Nature_9;Sub_Brand_38;Franchise_131;;ACTIVE;SP21;01/04/2023;;01/02/2021
+Material_ID_624;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_148;LIQUID LIPSTICK;ACTIVE;SUM21;;;01/04/2021
+Material_ID_625;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_148;LIQUID LIPSTICK;ACTIVE;SUM21;;;01/04/2021
+Material_ID_626;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_148;LIQUID LIPSTICK;ACTIVE;SUM21;;;01/04/2021
+Material_ID_627;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_144;GLOSS;ACTIVE;SUMBIS20;;;01/06/2020
+Material_ID_628;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_144;GLOSS;ACTIVE;SUMBIS20;01/02/2023;01/09/2023;01/06/2020
+Material_ID_629;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_143;LIQUID FOUNDATION;ACTIVE;FALL20;01/09/2024;;01/09/2020
+Material_ID_630;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_143;LIQUID FOUNDATION;ACTIVE;FALL20;01/09/2024;;01/09/2020
+Material_ID_631;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_143;LIQUID FOUNDATION;ACTIVE;FALL20;01/09/2024;;01/09/2020
+Material_ID_632;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_143;LIQUID FOUNDATION;ACTIVE;FALL20;01/09/2024;;01/09/2020
+Material_ID_633;MAKE UP;Range_8;Nature_9;Sub_Brand_38;Franchise_131;;ACTIVE;SP21;01/04/2023;;01/02/2021
+Material_ID_634;MAKE UP;Range_8;Nature_9;Sub_Brand_38;Franchise_131;;ACTIVE;SP21;01/04/2023;;01/02/2021
+Material_ID_635;MAKE UP;Range_8;Nature_9;Sub_Brand_38;Franchise_131;;ACTIVE;SP21;01/04/2023;;01/02/2021
+Material_ID_636;MAKE UP;Range_8;Nature_9;Sub_Brand_38;Franchise_131;;ACTIVE;SP21;01/04/2023;;01/02/2021
+Material_ID_637;MAKE UP;Range_8;Nature_9;Sub_Brand_38;Franchise_131;;ACTIVE;SP21;01/04/2023;;01/02/2021
+Material_ID_638;SKINCARE;Range_3;Nature_40;Sub_Brand_57;Franchise_149;BATH;ACTIVE;FALL20;01/02/2023;01/02/2023;01/09/2020
+Material_ID_639;SKINCARE;Range_3;Nature_40;Sub_Brand_58;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/02/2023;01/06/2020
+Material_ID_640;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_154;OTHER MASKS;ACTIVE;SP21;01/02/2024;;01/02/2021
+Material_ID_641;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_142;CRAYON;ACTIVE;SP21;01/04/2024;;01/02/2021
+Material_ID_642;MAKE UP;Range_1;Nature_16;Sub_Brand_19;Franchise_155;NON WATERPROOF;ACTIVE;SP21;01/09/2023;;01/02/2021
+Material_ID_643;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_143;LIQUID FOUNDATION;ACTIVE;FALL20;01/09/2024;;01/09/2020
+Material_ID_644;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_143;LIQUID FOUNDATION;ACTIVE;FALL20;01/09/2024;;01/09/2020
+Material_ID_645;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_144;GLOSS;ACTIVE;SUMBIS20;;;01/06/2020
+Material_ID_646;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_144;GLOSS;ACTIVE;SUMBIS20;;;01/06/2020
+Material_ID_647;MAKE UP;Range_1;Nature_16;Sub_Brand_26;Franchise_109;NON WATERPROOF;ACTIVE;SP20;;;01/02/2020
+Material_ID_648;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_145;FIBER MASKS;ACTIVE;FALL20;01/02/2024;;01/09/2020
+Material_ID_649;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_145;FIBER MASKS;ACTIVE;FALL20;01/02/2024;;01/09/2020
+Material_ID_650;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_144;GLOSS;ACTIVE;SUMBIS20;;;01/06/2020
+Material_ID_651;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_144;GLOSS;ACTIVE;SUMBIS20;01/02/2023;;01/06/2020
+Material_ID_652;MAKE UP;Range_8;Nature_41;Sub_Brand_63;Franchise_156;BRONZER;ACTIVE;SUM21;01/04/2024;;01/04/2021
+Material_ID_653;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_143;LIQUID FOUNDATION;ACTIVE;FALL20;01/09/2024;;01/09/2020
+Material_ID_654;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_143;LIQUID FOUNDATION;ACTIVE;FALL20;01/09/2024;;01/09/2020
+Material_ID_655;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_143;LIQUID FOUNDATION;ACTIVE;FALL20;01/09/2024;;01/09/2020
+Material_ID_656;SKINCARE;Range_3;Nature_40;Sub_Brand_57;Franchise_149;BATH;ACTIVE;FALL20;01/02/2023;01/02/2023;01/09/2020
+Material_ID_657;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_147;LIPSTICK;ACTIVE;SP21;01/09/2023;;01/02/2021
+Material_ID_658;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_147;LIPSTICK;ACTIVE;SP21;01/09/2023;;01/02/2021
+Material_ID_659;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_147;LIPSTICK;ACTIVE;SP21;01/09/2023;;01/02/2021
+Material_ID_660;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_147;LIPSTICK;ACTIVE;SP21;01/09/2023;;01/02/2021
+Material_ID_661;MAKE UP;Range_8;Nature_42;Sub_Brand_64;Franchise_157;SETTING SPRAY;ACTIVE;SP22;;;01/02/2022
+Material_ID_662;SKINCARE;Range_3;Nature_40;Sub_Brand_65;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_663;SKINCARE;Range_3;Nature_40;Sub_Brand_65;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_664;SKINCARE;Range_3;Nature_40;Sub_Brand_66;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_665;SKINCARE;Range_3;Nature_40;Sub_Brand_66;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_666;SKINCARE;Range_3;Nature_40;Sub_Brand_67;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_667;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_154;OTHER MASKS;ACTIVE;SP21;01/02/2024;;01/02/2021
+Material_ID_668;SKINCARE;Range_12;Nature_19;Sub_Brand_40;Franchise_150;BODY MOISTURIZERS;ACTIVE;SP22;01/02/2024;;01/02/2022
+Material_ID_669;SKINCARE;Range_12;Nature_19;Sub_Brand_40;Franchise_150;BODY MOISTURIZERS;ACTIVE;SP22;01/02/2024;;01/02/2022
+Material_ID_670;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_147;LIPSTICK;ACTIVE;SP21;01/09/2023;;01/02/2021
+Material_ID_671;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_148;LIQUID LIPSTICK;ACTIVE;SUM21;;;01/04/2021
+Material_ID_672;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_158;OTHER MASKS;ACTIVE;SUM21;01/02/2024;;01/04/2021
+Material_ID_673;MAKE UP;Range_1;Nature_26;Sub_Brand_61;Franchise_151;MINI PALETTE;ACTIVE;FALL20;01/02/2023;01/02/2023;01/09/2020
+Material_ID_674;ACCESSORIES;Range_10;Nature_11;Sub_Brand_68;Franchise_48;HAIR TOOLS;;;;;
+Material_ID_675;SKINCARE;Range_3;Nature_40;Sub_Brand_65;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_676;SKINCARE;Range_3;Nature_40;Sub_Brand_66;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_677;SKINCARE;Range_3;Nature_40;Sub_Brand_67;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_678;SKINCARE;Range_3;Nature_40;Sub_Brand_69;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_679;SKINCARE;Range_3;Nature_40;Sub_Brand_69;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_680;SKINCARE;Range_3;Nature_40;Sub_Brand_69;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_681;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_148;LIQUID LIPSTICK;;;;;
+Material_ID_682;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_147;LIPSTICK;ACTIVE;FALL21;01/09/2023;;01/09/2021
+Material_ID_683;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_153;MAKE UP BRUSH SINGLE;ACTIVE;SP20;;;01/02/2020
+Material_ID_684;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_159;CRAYON;ACTIVE;SP21;01/09/2023;01/09/2023;01/02/2021
+Material_ID_685;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_159;CRAYON;ACTIVE;SP21;01/09/2023;01/09/2023;01/02/2021
+Material_ID_686;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_148;LIQUID LIPSTICK;ACTIVE;SUM21;;;01/04/2021
+Material_ID_687;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_148;LIQUID LIPSTICK;ACTIVE;SUM21;;;01/04/2021
+Material_ID_688;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_148;LIQUID LIPSTICK;ACTIVE;SUM21;;;01/04/2021
+Material_ID_689;MAKE UP;Range_1;Nature_17;Sub_Brand_9;Franchise_160;LIQUID;ACTIVE;SP21;;;01/02/2021
+Material_ID_690;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_144;GLOSS;ACTIVE;SUMBIS20;;;01/06/2020
+Material_ID_691;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_144;GLOSS;ACTIVE;SUMBIS20;;;01/06/2020
+Material_ID_692;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_144;GLOSS;ACTIVE;SUMBIS20;01/02/2023;01/09/2023;01/06/2020
+Material_ID_693;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_144;GLOSS;ACTIVE;SUMBIS20;01/02/2023;01/09/2023;01/06/2020
+Material_ID_694;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_144;GLOSS;ACTIVE;SUMBIS20;;;01/06/2020
+Material_ID_695;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_144;GLOSS;ACTIVE;SUMBIS20;;;01/06/2020
+Material_ID_696;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_144;GLOSS;ACTIVE;SUMBIS20;01/02/2023;01/02/2023;01/06/2020
+Material_ID_697;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_145;FIBER MASKS;ACTIVE;FALL20;01/02/2024;;01/09/2020
+Material_ID_698;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_153;MAKE UP BRUSH SINGLE;ACTIVE;SP20;;;01/02/2020
+Material_ID_699;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_153;MAKE UP BRUSH SINGLE;ACTIVE;SP20;;;01/02/2020
+Material_ID_700;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_153;MAKE UP BRUSH SINGLE;ACTIVE;SP20;01/04/2023;;01/02/2020
+Material_ID_701;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_153;MAKE UP BRUSH SINGLE;ACTIVE;SP20;;;01/02/2020
+Material_ID_702;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_153;MAKE UP BRUSH SINGLE;ACTIVE;SP20;;;01/02/2020
+Material_ID_703;SKINCARE;Range_12;Nature_19;Sub_Brand_35;Franchise_161;MOISTURIZERS;ACTIVE;FALL20;01/09/2022;01/09/2022;01/09/2020
+Material_ID_704;SKINCARE;Range_3;Nature_40;Sub_Brand_58;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/02/2023;01/06/2020
+Material_ID_705;MAKE UP;Range_1;Nature_17;Sub_Brand_9;Franchise_160;LIQUID;ACTIVE;SP21;;;01/02/2021
+Material_ID_706;MAKE UP;Range_1;Nature_17;Sub_Brand_9;Franchise_160;LIQUID;ACTIVE;SP21;;;01/02/2021
+Material_ID_707;MAKE UP;Range_8;Nature_41;Sub_Brand_63;Franchise_162;BRONZER;ACTIVE;SUM21;01/04/2024;;01/04/2021
+Material_ID_708;MAKE UP;Range_8;Nature_41;Sub_Brand_63;Franchise_156;BRONZER;ACTIVE;SUM21;01/04/2024;;01/04/2021
+Material_ID_709;MAKE UP;Range_8;Nature_41;Sub_Brand_63;Franchise_156;BRONZER;ACTIVE;SUM21;01/04/2024;;01/04/2021
+Material_ID_710;MAKE UP;Range_1;Nature_17;Sub_Brand_9;Franchise_160;LIQUID;ACTIVE;SP21;;;01/02/2021
+Material_ID_711;MAKE UP;Range_1;Nature_17;Sub_Brand_9;Franchise_160;LIQUID;ACTIVE;SP21;;;01/02/2021
+Material_ID_712;SKINCARE;Range_3;Nature_40;Sub_Brand_57;Franchise_149;BATH;ACTIVE;FALL20;01/02/2023;01/02/2023;01/09/2020
+Material_ID_713;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_147;LIPSTICK;ACTIVE;SP21;01/09/2023;;01/02/2021
+Material_ID_714;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_147;LIPSTICK;ACTIVE;SP21;01/09/2023;;01/02/2021
+Material_ID_715;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_147;LIPSTICK;ACTIVE;FALL21;01/09/2023;;01/09/2021
+Material_ID_716;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_147;LIPSTICK;ACTIVE;SP21;01/09/2023;;01/02/2021
+Material_ID_717;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_147;LIPSTICK;ACTIVE;SP21;01/09/2023;;01/02/2021
+Material_ID_718;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_147;LIPSTICK;ACTIVE;FALL21;01/09/2023;;01/09/2021
+Material_ID_719;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_147;LIPSTICK;ACTIVE;SP21;01/09/2023;;01/02/2021
+Material_ID_720;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_147;LIPSTICK;ACTIVE;FALL21;01/09/2023;;01/09/2021
+Material_ID_721;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_147;LIPSTICK;ACTIVE;SP21;01/09/2023;;01/02/2021
+Material_ID_722;SKINCARE;Range_3;Nature_40;Sub_Brand_65;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_723;SKINCARE;Range_3;Nature_40;Sub_Brand_66;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_724;SKINCARE;Range_3;Nature_40;Sub_Brand_58;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/02/2023;01/06/2020
+Material_ID_725;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_148;LIQUID LIPSTICK;ACTIVE;SUM21;;;01/04/2021
+Material_ID_726;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_148;LIQUID LIPSTICK;ACTIVE;SUM21;;;01/04/2021
+Material_ID_727;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_159;CRAYON;ACTIVE;SP21;01/09/2023;01/09/2023;01/02/2021
+Material_ID_728;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_159;CRAYON;ACTIVE;SP21;01/09/2023;01/09/2023;01/02/2021
+Material_ID_729;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_148;LIQUID LIPSTICK;ACTIVE;SUM21;;;01/04/2021
+Material_ID_730;SKINCARE;Range_3;Nature_40;Sub_Brand_26;Franchise_149;BATH;ACTIVE;FALL20;01/02/2023;01/06/2023;01/09/2020
+Material_ID_731;SKINCARE;Range_3;Nature_40;Sub_Brand_59;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_732;SKINCARE;Range_3;Nature_40;Sub_Brand_69;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_733;SKINCARE;Range_3;Nature_40;Sub_Brand_60;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_734;SKINCARE;Range_3;Nature_40;Sub_Brand_60;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_735;SKINCARE;Range_3;Nature_40;Sub_Brand_60;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_736;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_153;MAKE UP BRUSH SINGLE;ACTIVE;SP20;;;01/02/2020
+Material_ID_737;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_153;MAKE UP BRUSH SINGLE;ACTIVE;SP20;;;01/02/2020
+Material_ID_738;SKINCARE;Range_17;Nature_43;Sub_Brand_70;Franchise_163;CAPS/PILLS;ACTIVE;SUM20;01/09/2022;;01/04/2020
+Material_ID_739;SKINCARE;Range_12;Nature_21;Sub_Brand_24;Franchise_164;OTHERS;ACTIVE;SUM21;;;01/04/2021
+Material_ID_740;SKINCARE;Range_12;Nature_19;Sub_Brand_35;Franchise_161;MOISTURIZERS;ACTIVE;FALL20;01/09/2022;01/09/2022;01/09/2020
+Material_ID_741;SKINCARE;Range_12;Nature_19;Sub_Brand_35;Franchise_161;MOISTURIZERS;ACTIVE;FALL20;01/09/2022;01/09/2022;01/09/2020
+Material_ID_742;MAKE UP;Range_1;Nature_30;Sub_Brand_71;Franchise_165;BROW PEN;ACTIVE;SUM21;01/09/2023;;01/04/2021
+Material_ID_743;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_144;GLOSS;;;;;
+Material_ID_744;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_158;OTHER MASKS;ACTIVE;SUM21;01/02/2024;;01/04/2021
+Material_ID_745;SKINCARE;Range_12;Nature_21;Sub_Brand_39;Franchise_166;OTHER MASKS;ACTIVE;FALL21;;;01/09/2021
+Material_ID_746;SKINCARE;Range_3;Nature_40;Sub_Brand_59;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_747;SKINCARE;Range_3;Nature_40;Sub_Brand_67;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_748;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_153;MAKE UP BRUSH SINGLE;ACTIVE;SP20;01/04/2023;;01/02/2020
+Material_ID_749;MAKE UP;Range_1;Nature_17;Sub_Brand_9;Franchise_160;LIQUID;ACTIVE;SP21;;;01/02/2021
+Material_ID_750;MAKE UP;Range_1;Nature_30;Sub_Brand_71;Franchise_165;BROW PEN;ACTIVE;SUM21;01/09/2023;;01/04/2021
+Material_ID_751;MAKE UP;Range_1;Nature_30;Sub_Brand_71;Franchise_165;BROW PEN;ACTIVE;SUM21;01/09/2023;;01/04/2021
+Material_ID_752;SKINCARE;Range_3;Nature_40;Sub_Brand_58;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/02/2023;01/06/2020
+Material_ID_753;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_153;MAKE UP BRUSH SINGLE;ACTIVE;SP20;;;01/02/2020
+Material_ID_754;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_153;MAKE UP BRUSH SINGLE;ACTIVE;SP20;01/04/2023;;01/02/2020
+Material_ID_755;MAKE UP;Range_1;Nature_26;Sub_Brand_32;Franchise_167;MEDIUM PALETTE;ONE SHOT;SP22;01/09/2022;01/09/2022;01/02/2022
+Material_ID_756;SKINCARE;Range_3;Nature_40;Sub_Brand_65;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_757;SKINCARE;Range_3;Nature_40;Sub_Brand_26;Franchise_149;BATH;ACTIVE;FALL20;01/02/2023;01/06/2023;01/09/2020
+Material_ID_758;SKINCARE;Range_3;Nature_40;Sub_Brand_59;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_759;SKINCARE;Range_3;Nature_40;Sub_Brand_67;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_760;SKINCARE;Range_3;Nature_40;Sub_Brand_69;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_761;SKINCARE;Range_3;Nature_40;Sub_Brand_60;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_762;SKINCARE;Range_3;Nature_40;Sub_Brand_66;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_763;SKINCARE;Range_3;Nature_40;Sub_Brand_67;Franchise_149;BATH;ACTIVE;SUMBIS20;01/02/2023;01/06/2023;01/06/2020
+Material_ID_764;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_153;MAKE UP BRUSH SINGLE;ACTIVE;SP20;;;01/02/2020
+Material_ID_765;MAKE UP;Range_1;Nature_30;Sub_Brand_71;Franchise_165;BROW PEN;ACTIVE;SUM21;01/09/2023;;01/04/2021
+Material_ID_766;MAKE UP;Range_1;Nature_30;Sub_Brand_71;Franchise_165;BROW PEN;ACTIVE;SUM21;01/09/2023;;01/04/2021
+Material_ID_767;MAKE UP;Range_1;Nature_30;Sub_Brand_71;Franchise_165;BROW PEN;ACTIVE;SUM21;01/09/2023;;01/04/2021
+Material_ID_768;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_19;CRAYON;ACTIVE;FALL21;;;01/09/2021
+Material_ID_769;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_19;CRAYON;ACTIVE;FALL21;;;01/09/2021
+Material_ID_770;ACCESSORIES;Range_4;Nature_4;Sub_Brand_4;Franchise_153;MAKE UP BRUSH SINGLE;ACTIVE;SP20;;;01/02/2020
+Material_ID_771;MAKE UP;Range_8;Nature_27;Sub_Brand_34;Franchise_77;BLUSH;ACTIVE;SUM21;01/02/2023;01/02/2023;01/04/2021
+Material_ID_772;SKINCARE;Range_12;Nature_19;Sub_Brand_35;Franchise_161;MOISTURIZERS;ACTIVE;FALL20;01/09/2022;;01/09/2020
+Material_ID_773;MAKE UP;Range_8;Nature_35;Sub_Brand_49;Franchise_116;;ACTIVE;FALL20;01/02/2023;01/02/2023;01/09/2020
+Material_ID_774;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_775;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_776;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_777;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_778;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_779;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_780;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_169;CONCEALER;ACTIVE;SP21;;;01/02/2021
+Material_ID_781;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_169;CONCEALER;ACTIVE;SP21;;;01/02/2021
+Material_ID_782;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_169;CONCEALER;ACTIVE;SP21;;;01/02/2021
+Material_ID_783;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_169;CONCEALER;ACTIVE;SP21;;;01/02/2021
+Material_ID_784;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_169;CONCEALER;ACTIVE;SP21;;;01/02/2021
+Material_ID_785;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_169;CONCEALER;ACTIVE;SP21;;;01/02/2021
+Material_ID_786;SKINCARE;Range_17;Nature_43;Sub_Brand_70;Franchise_163;CAPS/PILLS;ACTIVE;SUM20;;;01/04/2020
+Material_ID_787;SKINCARE;Range_17;Nature_43;Sub_Brand_70;Franchise_163;CAPS/PILLS;ACTIVE;SUM20;01/09/2022;;01/04/2020
+Material_ID_788;SKINCARE;Range_12;Nature_19;Sub_Brand_31;Franchise_170;OTHERS;ACTIVE;SUM21;01/04/2023;;01/04/2021
+Material_ID_789;SKINCARE;Range_12;Nature_19;Sub_Brand_31;Franchise_170;OTHERS;ACTIVE;SUM21;01/04/2023;;01/04/2021
+Material_ID_790;MAKE UP;Range_8;Nature_41;Sub_Brand_63;Franchise_162;BRONZER;ACTIVE;SUM21;01/04/2024;;01/04/2021
+Material_ID_791;MAKE UP;Range_8;Nature_41;Sub_Brand_63;Franchise_162;BRONZER;ACTIVE;SUM21;01/04/2024;;01/04/2021
+Material_ID_792;SKINCARE;Range_12;Nature_19;Sub_Brand_31;Franchise_170;OTHERS;ACTIVE;SUM21;01/04/2023;;01/04/2021
+Material_ID_793;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_19;CRAYON;ACTIVE;FALL21;;;01/09/2021
+Material_ID_794;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_19;CRAYON;ACTIVE;FALL21;;;01/09/2021
+Material_ID_795;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_19;CRAYON;ACTIVE;FALL21;;;01/09/2021
+Material_ID_796;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_19;CRAYON;ACTIVE;FALL21;;;01/09/2021
+Material_ID_797;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_19;CRAYON;ACTIVE;FALL21;;;01/09/2021
+Material_ID_798;MAKE UP;Range_1;Nature_16;Sub_Brand_19;Franchise_171;NON WATERPROOF;ACTIVE;SUM21;;;01/04/2021
+Material_ID_799;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_158;OTHER MASKS;ACTIVE;SUM21;01/02/2024;;01/04/2021
+Material_ID_800;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_158;OTHER MASKS;ACTIVE;SUM21;01/02/2024;;01/04/2021
+Material_ID_801;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_802;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_803;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_169;CONCEALER;ACTIVE;SP21;;;01/02/2021
+Material_ID_804;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_169;CONCEALER;ACTIVE;SP21;;;01/02/2021
+Material_ID_805;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_169;CONCEALER;ACTIVE;SP21;;;01/02/2021
+Material_ID_806;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_169;CONCEALER;ACTIVE;SP21;;;01/02/2021
+Material_ID_807;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_19;CRAYON;ACTIVE;FALL21;;;01/09/2021
+Material_ID_808;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_19;CRAYON;ACTIVE;FALL21;;;01/09/2021
+Material_ID_809;MAKE UP;Range_8;Nature_27;Sub_Brand_34;Franchise_77;BLUSH;ACTIVE;SUM21;01/02/2023;01/02/2023;01/04/2021
+Material_ID_810;SKINCARE;Range_12;Nature_19;Sub_Brand_72;Franchise_172;DEODORANTS;ACTIVE;SUM22;;;01/04/2021
+Material_ID_811;SKINCARE;Range_12;Nature_21;Sub_Brand_73;Franchise_173;MOISTURIZERS;ACTIVE;FALL21;;;01/09/2021
+Material_ID_812;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_174;LIQUID LIPSTICK;ACTIVE;FALL21;01/04/2023;;01/09/2021
+Material_ID_813;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_174;LIQUID LIPSTICK;ACTIVE;FALL21;01/04/2023;;01/09/2021
+Material_ID_814;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_815;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_816;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_817;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_818;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_819;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_820;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_169;CONCEALER;ACTIVE;SP21;;;01/02/2021
+Material_ID_821;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_169;CONCEALER;ACTIVE;SP21;;;01/02/2021
+Material_ID_822;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_169;CONCEALER;ACTIVE;SP21;;;01/02/2021
+Material_ID_823;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_169;CONCEALER;ACTIVE;SP21;;;01/02/2021
+Material_ID_824;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_169;CONCEALER;ACTIVE;SP21;;;01/02/2021
+Material_ID_825;MAKE UP;Range_8;Nature_27;Sub_Brand_34;Franchise_77;BLUSH;ACTIVE;SUM21;01/02/2023;01/02/2023;01/04/2021
+Material_ID_826;MAKE UP;Range_8;Nature_27;Sub_Brand_34;Franchise_77;BLUSH;ACTIVE;SUM21;01/02/2023;01/02/2023;01/04/2021
+Material_ID_827;SKINCARE;Range_12;Nature_21;Sub_Brand_74;Franchise_175;FACE KITS;OTHER;;;;
+Material_ID_828;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_19;CRAYON;ACTIVE;FALL21;;;01/09/2021
+Material_ID_829;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_19;CRAYON;ACTIVE;FALL21;;;01/09/2021
+Material_ID_830;MAKE UP;Range_1;Nature_16;Sub_Brand_19;Franchise_171;NON WATERPROOF;ACTIVE;SUM21;;;01/04/2021
+Material_ID_831;MAKE UP;Range_1;Nature_16;Sub_Brand_19;Franchise_171;NON WATERPROOF;ACTIVE;SUM21;;;01/04/2021
+Material_ID_832;ACCESSORIES;Range_4;Nature_28;Sub_Brand_36;Franchise_176;MAKE UP BRUSH SETS;ACTIVE;SUM21;;;01/04/2021
+Material_ID_833;SKINCARE;Range_12;Nature_21;Sub_Brand_73;Franchise_177;MOISTURIZERS;ACTIVE;SP22;;;01/02/2022
+Material_ID_834;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_174;LIQUID LIPSTICK;ACTIVE;FALL21;01/04/2023;;01/09/2021
+Material_ID_835;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_836;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_837;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_838;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_839;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_840;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_841;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_842;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_843;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_169;CONCEALER;ACTIVE;SP21;;;01/02/2021
+Material_ID_844;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_169;CONCEALER;ACTIVE;SP21;;;01/02/2021
+Material_ID_845;ACCESSORIES;Range_4;Nature_28;Sub_Brand_36;Franchise_178;MAKE UP BRUSH SETS;ACTIVE;SUM21;;;01/04/2021
+Material_ID_846;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_19;CRAYON;ACTIVE;FALL21;;;01/09/2021
+Material_ID_847;SKINCARE;Range_15;Nature_44;Sub_Brand_75;Franchise_179;HAIR CARE;ACTIVE;SUM21;;;01/04/2021
+Material_ID_848;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_19;CRAYON;ACTIVE;FALL21;;;01/09/2021
+Material_ID_849;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_19;CRAYON;ACTIVE;FALL21;;;01/09/2021
+Material_ID_850;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_19;CRAYON;ACTIVE;FALL21;;;01/09/2021
+Material_ID_851;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_174;LIQUID LIPSTICK;ACTIVE;FALL21;01/04/2023;;01/09/2021
+Material_ID_852;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_174;LIQUID LIPSTICK;ACTIVE;FALL21;01/04/2023;;01/09/2021
+Material_ID_853;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_854;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_855;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_856;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_857;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_858;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_859;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_860;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_169;CONCEALER;ACTIVE;SP21;;;01/02/2021
+Material_ID_861;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_169;CONCEALER;ACTIVE;SP21;;;01/02/2021
+Material_ID_862;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_19;CRAYON;ACTIVE;FALL21;;;01/09/2021
+Material_ID_863;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_19;CRAYON;ACTIVE;FALL21;;;01/09/2021
+Material_ID_864;SKINCARE;Range_15;Nature_44;Sub_Brand_75;Franchise_179;SHAMPOO;ACTIVE;SUM21;;;01/04/2021
+Material_ID_865;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_19;CRAYON;ACTIVE;FALL21;;;01/09/2021
+Material_ID_866;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_19;CRAYON;ACTIVE;FALL21;;;01/09/2021
+Material_ID_867;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_174;LIQUID LIPSTICK;ACTIVE;FALL21;01/04/2023;;01/09/2021
+Material_ID_868;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_869;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_870;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_871;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_872;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_873;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_874;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_875;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_169;CONCEALER;ACTIVE;SP21;;;01/02/2021
+Material_ID_876;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_169;CONCEALER;ACTIVE;SP21;;;01/02/2021
+Material_ID_877;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_169;CONCEALER;ACTIVE;SP21;;;01/02/2021
+Material_ID_878;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_169;CONCEALER;ACTIVE;SP21;;;01/02/2021
+Material_ID_879;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_169;CONCEALER;ACTIVE;SP21;;;01/02/2021
+Material_ID_880;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_19;CRAYON;ACTIVE;FALL21;;;01/09/2021
+Material_ID_881;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_19;CRAYON;ACTIVE;FALL21;;;01/09/2021
+Material_ID_882;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_883;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_174;LIQUID LIPSTICK;ACTIVE;FALL21;01/04/2023;;01/09/2021
+Material_ID_884;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_174;LIQUID LIPSTICK;ACTIVE;FALL21;01/04/2023;;01/09/2021
+Material_ID_885;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_886;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_887;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_888;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_889;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_890;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_891;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_169;CONCEALER;ACTIVE;SP21;;;01/02/2021
+Material_ID_892;MAKE UP;Range_8;Nature_9;Sub_Brand_10;Franchise_169;CONCEALER;ACTIVE;SP21;;;01/02/2021
+Material_ID_893;SKINCARE;Range_15;Nature_44;Sub_Brand_75;Franchise_179;HAIR CARE;ACTIVE;SUM21;;;01/04/2021
+Material_ID_894;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_174;LIQUID LIPSTICK;ACTIVE;FALL21;01/04/2023;;01/09/2021
+Material_ID_895;MAKE UP;Range_6;Nature_7;Sub_Brand_7;Franchise_174;LIQUID LIPSTICK;ACTIVE;FALL21;01/04/2023;;01/09/2021
+Material_ID_896;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_897;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_898;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_899;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_900;MAKE UP;Range_1;Nature_16;Sub_Brand_19;Franchise_171;NON WATERPROOF;ACTIVE;SUM21;;;01/04/2021
+Material_ID_901;ACCESSORIES;Range_4;Nature_28;Sub_Brand_36;Franchise_180;MAKE UP BRUSH SETS;ACTIVE;SUM21;;;01/04/2021
+Material_ID_902;ACCESSORIES;Range_4;Nature_28;Sub_Brand_36;Franchise_181;MAKE UP BRUSH SETS;ACTIVE;SUM21;;;01/04/2021
+Material_ID_903;MAKE UP;Range_8;Nature_22;Sub_Brand_25;Franchise_168;LIQUID FOUNDATION;ACTIVE;SP21;;;01/02/2021
+Material_ID_904;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;FALL21;01/02/2024;;01/09/2021
+Material_ID_905;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;FALL21;01/02/2024;;01/09/2021
+Material_ID_906;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;FALL21;01/02/2024;;01/09/2021
+Material_ID_907;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SUM21;01/02/2024;;01/04/2021
+Material_ID_908;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;FALL21;01/02/2024;;01/09/2021
+Material_ID_909;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;FALL21;01/02/2024;;01/09/2021
+Material_ID_910;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SUM21;01/02/2024;;01/04/2021
+Material_ID_911;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;FALL21;01/02/2024;;01/09/2021
+Material_ID_912;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;FALL21;01/02/2024;;01/09/2021
+Material_ID_913;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;FALL21;01/02/2024;;01/09/2021
+Material_ID_914;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;FALL21;01/02/2024;;01/09/2021
+Material_ID_915;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;FALL21;01/02/2024;;01/09/2021
+Material_ID_916;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SUM21;01/02/2024;;01/04/2021
+Material_ID_917;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SUM21;01/02/2024;;01/04/2021
+Material_ID_918;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SUM21;01/02/2024;;01/04/2021
+Material_ID_919;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;FALL21;01/02/2024;;01/09/2021
+Material_ID_920;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;FALL21;01/02/2024;;01/09/2021
+Material_ID_921;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;SPECIFIC;SUM21;;;01/04/2021
+Material_ID_922;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;FALL21;01/02/2024;;01/09/2021
+Material_ID_923;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;FALL21;01/02/2024;;01/09/2021
+Material_ID_924;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;FALL21;01/02/2024;;01/09/2021
+Material_ID_925;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SUM21;01/02/2024;;01/04/2021
+Material_ID_926;MAKE UP;Range_1;Nature_17;Sub_Brand_20;Franchise_31;MONO POUDRE;ACTIVE;SUM21;01/02/2024;;01/04/2021
+Material_ID_927;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_19;CRAYON;ACTIVE;FALL21;;;01/09/2021
+Material_ID_928;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_19;CRAYON;ACTIVE;FALL21;;;01/09/2021
+Material_ID_929;MAKE UP;Range_1;Nature_1;Sub_Brand_1;Franchise_19;CRAYON;ACTIVE;FALL21;;;01/09/2021
+Material_ID_930;MAKE UP;Range_1;Nature_30;Sub_Brand_1;Franchise_182;CRAYON;ACTIVE;FALL21;01/04/2024;;01/09/2021
+Material_ID_931;MAKE UP;Range_1;Nature_30;Sub_Brand_1;Franchise_182;CRAYON;ACTIVE;FALL21;01/04/2024;;01/09/2021
+Material_ID_932;MAKE UP;Range_1;Nature_30;Sub_Brand_1;Franchise_182;CRAYON;ACTIVE;FALL21;01/04/2024;;01/09/2021
+Material_ID_933;MAKE UP;Range_1;Nature_30;Sub_Brand_1;Franchise_182;CRAYON;ACTIVE;FALL21;01/04/2024;;01/09/2021
+Material_ID_934;MAKE UP;Range_1;Nature_16;Sub_Brand_26;Franchise_109;WATERPROOF;ACTIVE;SUM21;;;01/04/2021
+Material_ID_935;ACCESSORIES;Range_4;Nature_28;Sub_Brand_36;Franchise_183;MAKE UP BRUSH SETS;ACTIVE;SUM21;;;01/04/2021
+Material_ID_936;SKINCARE;Range_12;Nature_21;Sub_Brand_24;Franchise_184;OTHERS;ACTIVE;SP22;;;01/02/2022
+Material_ID_937;SKINCARE;Range_12;Nature_21;Sub_Brand_24;Franchise_185;REMOVERS;ACTIVE;SP22;;;01/02/2022
+Material_ID_938;SKINCARE;Range_3;Nature_45;Sub_Brand_76;Franchise_186;HYGIENE;ACTIVE;SUMBIS21;01/02/2023;01/06/2023;01/06/2021
+Material_ID_939;SKINCARE;Range_12;Nature_21;Sub_Brand_73;Franchise_187;MOISTURIZERS;ACTIVE;SUM22;;;01/02/2022
+Material_ID_940;SKINCARE;Range_3;Nature_45;Sub_Brand_76;Franchise_186;HYGIENE;ACTIVE;SUMBIS21;01/02/2023;01/06/2023;01/06/2021
+Material_ID_941;SKINCARE;Range_12;Nature_21;Sub_Brand_73;Franchise_188;MOISTURIZERS;ACTIVE;SP22;;;01/02/2022
+Material_ID_942;SKINCARE;Range_12;Nature_21;Sub_Brand_73;Franchise_189;MOISTURIZERS;ACTIVE;SP22;;;01/02/2022
+Material_ID_943;SKINCARE;Range_3;Nature_45;Sub_Brand_76;Franchise_186;HYGIENE;ACTIVE;SUMBIS21;01/02/2023;01/06/2023;01/06/2021
+Material_ID_944;SKINCARE;Range_3;Nature_45;Sub_Brand_76;Franchise_186;HYGIENE;ACTIVE;SUMBIS21;01/02/2023;01/06/2023;01/06/2021
+Material_ID_945;SKINCARE;Range_3;Nature_45;Sub_Brand_76;Franchise_186;HYGIENE;ACTIVE;SUMBIS21;01/02/2023;01/06/2023;01/06/2021
+Material_ID_946;ACCESSORIES;Range_5;Nature_5;Sub_Brand_26;Franchise_190;TRAVEL ACCESSORIES;ACTIVE;SUM21;;;01/04/2021
+Material_ID_947;MAKE UP;Range_8;Nature_12;Sub_Brand_77;Franchise_191;POWDERS;ACTIVE;SP22;;;01/02/2022
+Material_ID_948;ACCESSORIES;Range_5;Nature_5;Sub_Brand_26;Franchise_192;TRAVEL ACCESSORIES;ACTIVE;SUM21;;;01/04/2021
+Material_ID_949;ACCESSORIES;Range_5;Nature_5;Sub_Brand_26;Franchise_193;TRAVEL ACCESSORIES;ACTIVE;SUM21;;;01/04/2021
+Material_ID_950;ACCESSORIES;Range_5;Nature_46;Sub_Brand_26;Franchise_194;TRAVEL ACCESSORIES SETS;ACTIVE;SUM21;;;01/04/2021
+Material_ID_951;MAKE UP;Range_8;Nature_12;Sub_Brand_78;Franchise_195;LOOSE POWDER;ACTIVE;SP21;01/02/2024;;01/02/2021
+Material_ID_952;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_196;FIBER MASKS;;;;;
+Material_ID_953;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_196;FIBER MASKS;;;;;
+Material_ID_954;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_196;FIBER MASKS;;;;;
+Material_ID_955;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_196;FIBER MASKS;;;;;
+Material_ID_956;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_196;FIBER MASKS;;;;;
+Material_ID_957;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_196;FIBER MASKS;;;;;
+Material_ID_958;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_196;FIBER MASKS;;;;;
+Material_ID_959;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_196;FIBER MASKS;;;;;
+Material_ID_960;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_196;FIBER MASKS;;;;;
+Material_ID_961;SKINCARE;Range_12;Nature_19;Sub_Brand_79;Franchise_197;FACE KITS;OTHER;;;;
+Material_ID_962;SKINCARE;Range_17;Nature_43;Sub_Brand_70;Franchise_163;CAPS/PILLS;ACTIVE;SUMBIS21;;;01/06/2021
+Material_ID_963;ACCESSORIES;Range_2;Nature_2;Sub_Brand_26;Franchise_198;SKINCARE ACCESSORIES;ONE SHOT;SUMBIS21;01/06/2023;;01/06/2021
+Material_ID_964;ACCESSORIES;Range_5;Nature_5;Sub_Brand_52;Franchise_134;ATOMIZERS;ACTIVE;SP22;;;01/02/2022
+Material_ID_965;MAKE UP;Range_1;Nature_26;Sub_Brand_61;Franchise_199;MINI PALETTE;ACTIVE;SP22;01/02/2023;01/02/2023;01/02/2022
+Material_ID_966;MAKE UP;Range_1;Nature_26;Sub_Brand_61;Franchise_199;MINI PALETTE;ACTIVE;SP22;01/02/2023;01/02/2023;01/02/2022
+Material_ID_967;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_200;GLOSS;ACTIVE;SP22;;;01/02/2022
+Material_ID_968;MAKE UP;Range_6;Nature_25;Sub_Brand_30;Franchise_200;GLOSS;ACTIVE;SP22;;;01/02/2022
+Material_ID_969;MAKE UP;Range_1;Nature_26;Sub_Brand_61;Franchise_199;MINI PALETTE;ACTIVE;SP22;01/02/2023;01/02/2023;01/02/2022
+Material_ID_970;ACCESSORIES;Range_14;Nature_47;Sub_Brand_80;Franchise_201;OTHERS;ACTIVE;SP22;;;01/02/2022
+Material_ID_971;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_202;OTHER MASKS;ACTIVE;SP22;01/02/2024;;01/02/2022
+Material_ID_972;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_202;OTHER MASKS;ACTIVE;SP22;01/02/2024;;01/02/2022
+Material_ID_973;MAKE UP;Range_1;Nature_26;Sub_Brand_61;Franchise_199;MINI PALETTE;ACTIVE;SP22;01/02/2023;01/02/2023;01/02/2022
+Material_ID_974;SKINCARE;Range_12;Nature_19;Sub_Brand_22;Franchise_202;OTHER MASKS;ACTIVE;SP22;01/02/2024;;01/02/2022
+Material_ID_975;ACCESSORIES;Range_14;Nature_37;Sub_Brand_51;Franchise_203;LASH CURLER;ACTIVE;SP22;;;01/02/2022
+Material_ID_976;MAKE UP;Range_6;Nature_6;Sub_Brand_6;Franchise_204;LIPSTICK;;;;;
+Material_ID_977;MAKE UP;Range_1;Nature_26;Sub_Brand_32;Franchise_204;MEDIUM PALETTE;;;;;
+Material_ID_978;ACCESSORIES;Range_2;Nature_2;Sub_Brand_26;Franchise_146;SKINCARE ACCESSORIES;ACTIVE;SP22;;;01/02/2022
+Material_ID_979;MAKE UP;Range_1;Nature_16;Sub_Brand_26;Franchise_205;BTG;ACTIVE;SP22;;;01/02/2022
+Material_ID_980;SKINCARE;Range_3;Nature_45;Sub_Brand_81;Franchise_206;BATH;ONE SHOT;SP22;01/09/2022;;01/02/2022
+Material_ID_981;MAKE UP;Range_1;Nature_16;Sub_Brand_19;Franchise_205;MASCARA;ACTIVE;SP22;;;01/02/2022
+Material_ID_982;SKINCARE;Range_12;Nature_21;Sub_Brand_74;Franchise_207;KITS;ONE SHOT;SP22;01/02/2023;01/02/2023;01/02/2022
+Material_ID_983;SKINCARE;Range_12;Nature_21;Sub_Brand_73;Franchise_208;MOISTURIZERS;ACTIVE;SP22;;;01/02/2022
+Material_ID_984;SKINCARE;Range_12;Nature_21;Sub_Brand_73;Franchise_208;MOISTURIZERS;ACTIVE;SP22;;;01/02/2022
+Material_ID_985;ACCESSORIES;Range_2;Nature_2;Sub_Brand_26;Franchise_146;SKINCARE ACCESSORIES;ACTIVE;SP22;;;01/02/2022
+Material_ID_986;MAKE UP;Range_1;Nature_48;Sub_Brand_82;Franchise_209;SETS;ONE SHOT;SP22;01/09/2022;;01/02/2022
+Material_ID_987;MAKE UP;Range_1;Nature_48;Sub_Brand_82;Franchise_209;SETS;ONE SHOT;SP22;01/09/2022;;01/02/2022
+Material_ID_988;MAKE UP;Range_6;Nature_48;Sub_Brand_82;Franchise_209;SETS;ONE SHOT;SP22;01/09/2022;;01/02/2022
