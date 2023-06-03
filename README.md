@@ -20,6 +20,7 @@ This project aims to develop a program that utilizes artificial intelligence to 
 ## Installation
 
 You need wsl: Ubuntu
+
 Open the project folder in your working environment (in VS Code)
 Navigate to the project directory using the cd command
 
