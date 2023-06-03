@@ -1,4 +1,4 @@
-# Financially Intelligent Product Recommendation
+## Financially Intelligent Product Recommendation
 This project implements a recommendation algorithm using the LightFM library in Python. The algorithm predicts sales scores for various products in different stores based on historical sales data.
 
 ## Table of Contents
