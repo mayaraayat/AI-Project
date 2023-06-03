@@ -22,6 +22,7 @@ This project aims to develop a program that utilizes artificial intelligence to 
 You need wsl: Ubuntu
 
 Open the project folder in your working environment (in VS Code)
+
 Navigate to the project directory using the cd command
 
 Install the required dependencies by running the following command:
